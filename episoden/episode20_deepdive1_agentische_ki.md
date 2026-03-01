@@ -10,3 +10,5 @@
 ## 🎯 Kernthese der Episode
 
 > Agentische KI hat in den letzten 6 Monaten einen enormen Aufschwung erfahren. Wir, Martin und Dennis, nutzen diese auf die eine oder andere Weise bereits in unserem Alltag. Wir möchten euch diese Erfahrungen teilen und euch zeigen, wie wir sie nutzen.
+
+Genauere Informationen findet ihr in unserem Workshop repository: [https://github.com/akademiker-und-hauptschueler/demo_agentic_ai](https://github.com/akademiker-und-hauptschueler/demo_agentic_ai)

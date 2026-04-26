@@ -1,8 +1,8 @@
-# Episode: Steuern, Freiheit und Alltag unter Druck
+# Episode: Energieprämie, Inflation, Insolvenzen: Was passiert gerade?
 
 **Podcast:** Der Akademiker und der Hauptschüler  
-**Arbeitstitel:** Steuern, Freiheit und Alltag unter Druck – Was 2026 wirklich zusammenpresst (und was nur laut ist)  
-**Episode:** 25  
+**Arbeitstitel:** Energieprämie, Inflation, Insolvenzen: – Was 2026 wirklich zusammenpresst (und was nur laut ist)  
+**Episode:** 26 
 **Stand:** April 2026  
 **Geschätzte Länge:** ca. 30–35 Minuten  
 

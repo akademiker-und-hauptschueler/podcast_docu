@@ -3,14 +3,14 @@
 **Podcast:** Der Akademiker und der Hauptschüler  
 **Arbeitstitel:** "Agentic AI und der Einstiegsjob-Stau für Gen Z"  
 **Episode:** 31  
-**Stand:** Mai 2026  
-**Geschätzte Länge:** ca. 35–45 Minuten  
+**Stand:** Juli 2026 (Datenaktualisierung: Challenger Report Q1 2026, Stanford AI Index 2026, deutscher Marktbezug ergänzt)  
+**Geschätzte Länge:** ca. 40–50 Minuten  
 
 ---
 
 ## Kernthese der Episode
 
-> Die Werkzeuge, die als Befreiung von der Routine verkauft wurden, entfernen gerade die Trainingsbasis der nächsten Generation. **Agentic AI eliminiert Einstiegspositionen schneller, als neue Rollen entstehen.** Andrew McAfee -- Senior Lecturer am MIT und Ko-Autor von *The Second Machine Age* -- warnt in einem aktuellen Fortune-Artikel, dass Unternehmen mit der Automatisierung von Einstiegsjobs ihre eigene Talentpipeline zerstören. Die Datenlage ist eindeutig: 80 % der Gen Z glauben, dass KI-Abhängigkeit das eigene Lernen gefährdet; 52.000 Tech-Jobs sind allein im ersten Quartal 2026 verschwunden. Gleichzeitig wächst der Agentic-AI-Jobmarkt -- aber von einer so kleinen Basis, dass er die Verluste nicht annähernd kompensiert. **Die Frage ist nicht, ob KI Jobs wegnimmt. Die Frage ist, ob der Einstiegsjob noch existiert, bevor die neue Generation gelernt hat, ihn zu machen.**
+> Die Werkzeuge, die als Befreiung von der Routine verkauft wurden, verändern gerade die Trainingsbasis der nächsten Generation. **Mehrere unabhängige Datenquellen zeigen ein Muster: Agentic AI übernimmt Einstiegsaufgaben schneller, als neue, für Berufseinsteiger zugängliche Rollen entstehen.** Andrew McAfee -- Senior Lecturer am MIT und Ko-Autor von *The Second Machine Age* -- warnt in einem vielbeachteten Fortune-Artikel, dass Unternehmen mit der Automatisierung von Einstiegsjobs ihre eigene Talentpipeline aufs Spiel setzen. Die Datenlage stützt diese These, auch wenn sie kein Weltuntergangsszenario zeichnet: 80 % der Gen Z glauben, dass KI-Abhängigkeit das eigene Lernen gefährdet; allein im ersten Quartal 2026 sind in den USA 52.050 Tech-Jobs weggefallen. Gleichzeitig wächst der Agentic-AI-Jobmarkt spürbar -- aber von einer kleinen Basis, und die neuen Rollen setzen meist bereits vorhandene Erfahrung voraus. Gegenbeispiele wie IBMs verdreifachte Gen-Z-Einstellungen zeigen: Es gibt keinen Automatismus, sondern eine unternehmerische Entscheidung. **Die Frage ist nicht, ob KI Jobs verändert. Die Frage ist, ob genug neue Einstiegspfade entstehen, bevor die aktuelle Generation ihre Lernchance verpasst -- und was jede und jeder Einzelne jetzt tun kann, um nicht darauf warten zu müssen.**
 
 ---
 
@@ -18,23 +18,33 @@
 
 | Rolle | Funktion |
 | --- | --- |
-| **Host A (Akademiker)** | Makrorahmen: wirtschaftspolitische Einordnung des Paradoxons, McAfee-These, strukturelle Pipeline-Probleme, EU vs. USA vs. Kanada im Vergleich, regulatorische Antworten |
-| **Host B (Hauptschüler)** | Unternehmerperspektive: Was bedeutet das für den eigenen Arbeitsmarkt? Wie verhalten wir uns als Gründer oder Angestellte? Die praktische Frage: Wo finde ich jetzt einen Einstieg? |
+| **Dennis (Akademiker)** | Makrorahmen: wirtschaftspolitische Einordnung des Paradoxons, McAfee-These, strukturelle Pipeline-Probleme, EU vs. USA vs. Kanada im Vergleich, regulatorische Antworten, bildungspolitische Perspektive |
+| **Martin (Unternehmer / Recruiter)** | Praxisperspektive aus dem eigenen Recruiting: Stellt er selbst noch Juniors ein oder testet er zuerst Agenten? Wie hat sich der Einsteiger-Arbeitsmarkt 2025/2026 aus seiner Sicht verändert? Die praktische Frage: Wo finde ich jetzt einen Einstieg? |
 
 ---
 
 ## Diskussionsaufbau
 
-1. **Hook:** McAfees Fortune-Artikel -- warum ein MIT-Insider jetzt die eigene Technologie-Logik infrage stellt.
-2. **Was ist eigentlich passiert? -- Die Datenlage.** Agentic-AI-Wachstum vs. Jobverluste in absoluten Zahlen.
-3. **Das ökonomische Paradoxon:** Effizienzgewinn heute, Talentlücke morgen.
+1. **Hook:** Eine konkrete Alltagsszene aus einem Einstiegsjob 2026, dann McAfees Fortune-Artikel -- warum ein MIT-Insider jetzt die eigene Technologie-Logik infrage stellt.
+2. **Was ist eigentlich passiert? -- Die Datenlage.** Agentic-AI-Wachstum vs. Jobverluste in absoluten, verifizierten Zahlen.
+3. **Das ökonomische Paradoxon:** Effizienzgewinn heute, Talentlücke morgen -- inklusive Deutschland-Bezug und einer bewusst positiveren Gegenstimme.
 4. **Der Generationentreffer: Gen Z zwischen Sorge und Anpassung.**
 5. **Internationaler Vergleich: USA vs. EU vs. Kanada.**
-6. **Ausblick: Was bleibt von der klassischen Karriereleiter?**
+6. **Ausblick: Praktischer Werkzeugkasten, bildungspolitische Fragen und was von der klassischen Karriereleiter bleibt.**
 
 ---
 
-## Hook / Einstieg (~4 Min.)
+## Hook / Einstieg (~5 Min.)
+
+### Die konkrete Szene zuerst
+
+**Martin eröffnet mit einem alltäglichen Beispiel, bevor McAfee kommt:**
+
+> „Stellt euch eine Berufseinsteigerin vor, sechs Monate im Job. Ihre erste Aufgabe war früher: Code-Reviews vorbereiten, Support-Tickets sortieren, Recherche für den nächsten Report. Klassische Juniorarbeit. 2026 macht das zunehmend ein Agent -- automatisiert, in Sekunden, rund um die Uhr. Die Aufgabe ist nicht schwieriger geworden. Sie ist einfach verschwunden. Und mit ihr die Gelegenheit, genau daran zu lernen."
+
+**Warum das kein Einzelfall ist (Dennis ordnet ein, bevor McAfee zitiert wird):**
+
+> „Das ist keine Anekdote von uns ausgedacht -- das ist exakt das Muster, das Andrew McAfee, Senior Lecturer am MIT, in einem vielbeachteten Artikel beschreibt."
 
 ### Der Auslöser
 
@@ -62,24 +72,24 @@ McAfee ist kein Außenseiter oder KI-Kritiker. Er hat den Begriff "Enterprise 2.
 - Der Artikel hat sich viral verbreitet, nicht wegen seiner Sensationalität, sondern weil er ein Muster benennt, das viele in der Industrie beobachten: **Firmen skalieren Back-Office- und Junior-Positionen zurück, während einige neue KI-Related-Rollen entstehen -- aber nicht in gleichem Maße oder für dieselbe Bevölkerungsgruppe.**
 - McAfee betont zudem: Gen Z ist die KI-affinste Generation überhaupt -- sie abzuschneiden bedeutet nicht nur den Verlust von Nachwuchs, sondern den Verlust der enthusiastischsten KI-Nutzer der Zukunft.
 
-**Host-A-Einordnung:**  
+**Dennis-Einordnung:**  
 *"McAfee ist kein KI-Skeptiker. Er war einer der ersten, die Enterprise-Software als Produktivitätshebel gesehen haben. Dass er jetzt genau diese Entwicklung kritisiert, gibt dem Text ein anderes Gewicht als die Warnung eines externen Beobachters. Das ist kein Fehlalarm von außen -- das ist Selbstkritik von innen."*
 
 ### 1.2 Die harten Zahlen -- mit absolutem Kontext
 
 **Agentic-AI-Wachstum vs. Tech-Job-Verluste:**
 
-- **Agentic-AI-Rollen: 986 % Wachstum -- aber zwischen 2023 und 2024** (Stanford AI Index, zit. in JobsByCulture 2026). Das ist der relative Sprung vom Fast-Nullpunkt.
-- **Q1 2026, absolut:** Rund 90.000 Agentic-AI-Stellenausschreibungen in den USA (+280 % YoY). Neue Berufsbilder: AI-Orchestrator, Prompt-Engineer, Forward-Deployed Engineer.
-- **Dem gegenüber stehen allein in Q1 2026:** 52.050 weggefallene Tech-Jobs und 145.912 insgesamt durch KI-Attribution (Challenger, Gray & Christmas, April 2026).
+- **Agentic AI als neue Skill-Kategorie:** Der Stanford AI Index 2026 (Datenpartner Lightcast) führt „Agentic AI" 2026 erstmals als eigenständigen KI-Skill-Cluster. Erwähnungen in US-Stellenanzeigen stiegen von 0,06 % (2024) auf 0,23 % (2025) -- ein Plus von über **280 % innerhalb eines Jahres**, das rund **90.000 Stellenausschreibungen in den USA im Jahr 2025** entspricht. Neue Berufsbilder: AI-Orchestrator, Prompt-Engineer, Forward-Deployed Engineer.
+- **Wichtige Einordnung:** 0,23 % aller US-Stellenanzeigen ist absolut betrachtet noch eine kleine Nische -- aber die Wachstumsrate und die Tatsache, dass klassische Rollen wie "Chatbot" oder "Conversational AI" im selben Zeitraum an Nennungen verloren haben, zeigt eine klare Verschiebung der Nachfrage.
+- **Dem gegenüber stehen allein im ersten Quartal 2026 in den USA:** 52.050 weggefallene Tech-Jobs (Challenger, Gray & Christmas, verifiziert für Q1 2026, +40 % ggü. Vorjahresquartal) sowie 27.645 Stellenstreichungen, die Unternehmen branchenübergreifend explizit auf KI zurückführen -- das sind 13 % aller in Q1 2026 angekündigten Stellenstreichungen in den USA (217.362 insgesamt).
 
 **Das Missverhältnis in Zahlen:**  
-90.000 neue Agentic-AI-Stellen stehen 52.050 weggefallenen Technologiejobs in einem einzigen Quartal gegenüber. Und die neuen Stellen erfordern bestehende Expertise -- sie sind kein Einstiegspunkt.
+Rund 90.000 neue Agentic-AI-Stellen im Jahr 2025 stehen 52.050 weggefallenen Technologiejobs allein im ersten Quartal 2026 gegenüber. Beide Zahlen sind nicht direkt 1:1 vergleichbar (unterschiedliche Zeiträume, unterschiedliche Erhebungsmethoden) -- aber die Richtung ist eindeutig: Die neuen Stellen erfordern bestehende Expertise, sie sind kein Einstiegspunkt.
 
 **Das Muster:**  
 Die neuen Rollen sind spezialisiert, erfordern bereits bestehende Expertise und sind räumlich oft remote oder in Tech-Hubs konzentriert. Die wegfallenden Rollen waren der klassische Einstiegspunkt -- auch für Menschen ohne Informatikstudium.
 
-**Host-B-Perspektive:**  
+**Martin-Perspektive:**  
 *"Also auf der einen Seite: 52.000 Jobs weg, primär Einstiegspositionen. Auf der anderen Seite: 90.000 neue KI-Rollen -- klingt erstmal nach Chancen. Aber wenn man sich die Anforderungen anschaut, wer kann die neuen Jobs überhaupt machen? Jemand, der noch nie in der Branche war, hat dafür keinen Zugang."*
 
 **Diskussions-Hook:**  
@@ -87,7 +97,7 @@ Die neuen Rollen sind spezialisiert, erfordern bereits bestehende Expertise und 
 
 ---
 
-## Kapitel 2: Das ökonomische Paradoxon (~8 Min.)
+## Kapitel 2: Das ökonomische Paradoxon (~11 Min.)
 
 ### 2.1 Der Trichter, der sich zumacht
 
@@ -105,7 +115,7 @@ Die neuen Rollen sind spezialisiert, erfordern bereits bestehende Expertise und 
 - New-Grad-Einstellungen sind auf **7 Prozent aller neuen technischen Stellen** gesunken -- vor der Pandemie war es das Doppelte.
 - In KI-exponierten Berufsfeldern ist die Beschäftigung der 22- bis 25-Jährigen bereits um **13 Prozent** zurückgegangen (Stanford AI Index 2026, zit. in Fortune, Januar 2026).
 
-**Host-A-Einordnung:**  
+**Dennis-Einordnung:**  
 *"Es ist kein Zufall, dass die Automatisierung bei den Aufgaben einsetzt, die Einsteiger lernen lassen sollen. Die Logik der KI-Effizienz ist: Nimm die Aufgaben weg, die sich automatisieren lassen. Die Aufgaben, die man als Einstieg braucht, sind per Definition die, die sich am besten automatisieren lassen."*
 
 ### 2.2 Die Deloitte-Zahlen: 74 Prozent nutzen KI -- und werden schneller ersetzt
@@ -116,7 +126,7 @@ Die neuen Rollen sind spezialisiert, erfordern bereits bestehende Expertise und 
 - Das klingt nach Adaptation. Es ist gleichzeitig der Hebel, der den eigenen Einstieg beschleunigt.
 - **Der Kreis schließt sich:** Je mehr Einsteiger KI nutzen, um ihre Arbeit zu erledigen, desto weniger muss ein Unternehmen sie für diese Arbeit bezahlen.
 
-**Die Ironie (Host B):**  
+**Die Ironie (Martin):**  
 *"Die jungen Leute lernen KI, weil sie sie brauchen, um überhaupt reinzukommen. Aber wenn sie dann da sind, macht die KI die Arbeit, für die sie eingestellt wurden. Das ist wie eine Spirale, in die man reinfällt, weil man davor nicht reinfallen will."*
 
 ### 2.3 Das Unternehmens-Dilemma
@@ -128,8 +138,37 @@ Die neuen Rollen sind spezialisiert, erfordern bereits bestehende Expertise und 
 - **Teufelskreis:** Unternehmen klagen über Fachkräftemangel, stellen aber gleichzeitig die Pipeline ab, aus der Fachkräfte hätten kommen können.
 - **Gegenbeispiel:** IBM hat im Februar 2026 angekündigt, die Gen-Z-Einstiegseinstellungen zu verdreifachen -- und begründet das explizit damit, die Grenzen reiner KI-Abhängigkeit erkannt zu haben (Fortune, 13. Februar 2026).
 
-**Host-A-Einordnung:**  
+**Frage an Martin (die zentrale Unternehmerfrage der Folge):**
+
+> „Martin, ganz direkt: Wenn du morgen eine offene Junior-Stelle hättest -- würdest du noch einen Menschen einstellen oder erstmal testen, ob ein Agent die Aufgabe übernehmen kann?"
+
+*Redaktioneller Hinweis: Martins ehrliche, unternehmerische Antwort hier bewusst offen lassen -- das ist der Moment, in dem die Episode am authentischsten wird. Falls die Antwort "eher Agent zuerst testen" lautet, ist das genau der Punkt, an dem McAfees These im echten Gespräch bestätigt wird -- nicht abstrakt, sondern an einer konkreten unternehmerischen Entscheidung.*
+
+**Dennis-Einordnung:**  
 *"Das ist kein böser Wille. Das ist kalkulierter Kurzfristismus. Jedes Unternehmen sagt: Wir machen das, weil es jetzt funktioniert. Wenn alle es gleichzeitig machen -- was passiert dann in zehn Jahren? Niemand weiß es. Aber IBM gibt uns zumindest einen Hinweis, dass einige Firmen anfangen, das zu begreifen."*
+
+### 2.4 Der Deutschland-Bezug -- und eine bewusst positivere Gegenstimme
+
+**Warum dieser Block wichtig ist:** Die bisherigen Daten sind fast ausschließlich US-amerikanisch. Für einen deutschsprachigen Podcast lohnt sich der Blick auf den heimischen Markt -- und der liefert ein etwas differenzierteres Bild als die US-Datenlage.
+
+**Stepstone Hiring Trends Update (Dezember 2025, Deutschland):**
+
+- Die Suchanfragen nach der Position „KI-Manager" sind gegenüber dem Vorjahr um **174 Prozent** gestiegen -- ein Beleg für neue, KI-native Berufsbilder auch im deutschen Markt.
+- Gleichzeitig bleibt die Nachfrage in Berufen mit hohem zwischenmenschlichem Anteil -- Pflege, Erziehung, soziale Betreuung -- unverändert hoch. Das sind Bereiche, die 2025 zu den meistgesuchten Stellen auf Stepstone.de gehörten.
+- Zwei Drittel der befragten Unternehmen richten ihr Recruiting 2026 stärker auf Quereinsteiger:innen aus -- ein Hinweis, dass klassische Lebensläufe an Bedeutung verlieren, formale Bildungswege aber nicht der einzige Zugang bleiben.
+
+**Martin-Perspektive (Recruiting-Realität in Deutschland):**
+
+> „Ich sehe in meinem Netzwerk beides: Firmen, die bei jeder offenen Junior-Stelle zuerst fragen 'Kann das nicht ein Agent?' -- und Firmen, die genau deshalb wieder aktiver auf Azubis und Trainees setzen, weil sie gemerkt haben, dass ihnen sonst in fünf Jahren die Leute fehlen, die die Agenten überhaupt sinnvoll einsetzen können."
+
+**Die optimistischere Gegenstimme -- SAP / Wakefield-Studie (Mai 2026):**
+
+- 88 % der befragten Personalverantwortlichen (CHROs) erwarten, dass Berufseinsteiger:innen dank KI **schneller** einsatzbereit sind -- nicht, dass sie überflüssig werden.
+- Die Kernthese dieser Studie unterscheidet sich bewusst von McAfee: KI verändert die Einstiegsphase, statt sie abzuschaffen. Die Erwartungen an Einsteiger:innen steigen früher -- das ist anspruchsvoller, aber kein Beleg dafür, dass der Einstieg komplett verschwindet.
+- **Wichtig für die Balance der Folge:** Beide Studien schließen sich nicht aus. Es gibt weniger klassische Einstiegspositionen (McAfee, Challenger, InfoQ), aber wer reinkommt, kann durch KI schneller lernen und produktiv werden (SAP/Wakefield). Das strukturelle Nadelöhr wird enger -- aber wer durchkommt, hat potenziell bessere Karten als früher.
+
+**Dennis-Einordnung:**  
+*"Das nimmt der Debatte die Schwarz-Weiß-Logik. Es ist nicht 'KI vernichtet den Einstieg' oder 'KI ist super für Einsteiger'. Beides stimmt gleichzeitig: Der Trichter wird enger, aber die, die durchkommen, lernen schneller als frühere Generationen. Das ist kein Trost für alle -- aber es ist ehrlicher als beide Extrempositionen."*
 
 ---
 
@@ -160,7 +199,7 @@ Die neuen Rollen sind spezialisiert, erfordern bereits bestehende Expertise und 
 **Die paradoxe Chance:**  
 Gen Z hat KI früher und tiefer adaptiert als jede vorherige Generation. Das bedeutet auch: **Sie hat die Werkzeuge, um außerhalb klassischer Karrierewege zu arbeiten.**
 
-**Host-B-Perspektive:**  
+**Martin-Perspektive:**  
 *"Ich kann verstehen, warum junge Leute sagen: Wenn die traditionelle Karriereleiter nicht mehr existiert -- warum sollte ich sie aufbauen? Wir gründen lieber unser eigenes Ding mit KI-Tools, statt auf eine Stelle zu warten, die vielleicht eh morgen weg ist."*
 
 ### 3.3 Die Kehrseite
@@ -193,7 +232,7 @@ Gen Z hat KI früher und tiefer adaptiert als jede vorherige Generation. Das bed
 - **Unterschied zu den USA:** Weniger Fokus auf individuelle Anpassung, mehr auf strukturelle Regulation.
 - **Das Problem:** Regulation ohne entsprechende Bildungsinfrastruktur bleibt theoretisch.
 
-**Host-A-Einordnung:**  
+**Dennis-Einordnung:**  
 *"Die EU sagt: Wir regulieren, damit Menschen nicht durch KI ersetzt werden. Aber regulieren allein löst nicht das Problem, dass die Einstiegsjobs, die die Leute ausbilden, weg sind. Regulation schützt. Sie ersetzt nicht."*
 
 ### 4.3 Kanada: Junge Menschen als Mitgestalter
@@ -209,7 +248,7 @@ Gen Z hat KI früher und tiefer adaptiert als jede vorherige Generation. Das bed
 
 ---
 
-## Kapitel 5: Ausblick -- Die Karriereleiter, die nicht mehr existiert (~5 Min.)
+## Kapitel 5: Ausblick -- Die Karriereleiter, die nicht mehr existiert (~9 Min.)
 
 ### 5.1 Was bleibt vom klassischen Einstieg?
 
@@ -219,26 +258,49 @@ Gen Z hat KI früher und tiefer adaptiert als jede vorherige Generation. Das bed
 2. **Alternative Bildungswege** -- Solopreneurship, Freelancing, Community-basierte Apprenticeships. Die klassischen Pfade werden durch informelle ersetzt.
 3. **Strukturelle Veränderungen** -- staatliche Eingriffe, Bildungssysteme, die KI-Literacy vom ersten Tag an vermitteln, statt erst in der Berufsausbildung.
 
+### 5.1b Der konkrete Werkzeugkasten -- was Hörer:innen diese Woche tun können
+
+**Vier praktische Hebel, keine abstrakten Ratschläge:**
+
+| Hebel | Konkret | Warum es wirkt |
+| --- | --- | --- |
+| **KI-Tools aktiv meistern, nicht nur nutzen** | Nicht nur ChatGPT für Hausaufgaben, sondern verstehen, wie Agenten orchestriert werden, wie man Prompts/Workflows baut, die im Job tatsächlich gebraucht werden | Wer die Tools versteht statt nur konsumiert, wird zur Person, die Agenten einsetzt -- nicht zur Aufgabe, die ein Agent ersetzt |
+| **Menschliche Kompetenzen gezielt ausbauen** | Urteilsvermögen, Kreativität, Beziehungsaufbau, Verhandlung, Präsentation -- bewusst trainieren, nicht dem Zufall überlassen | Genau die Fähigkeiten, die laut Deloitte- und SAP-Studien am längsten nicht automatisierbar bleiben |
+| **Freelance- oder Solopreneur-Erfahrung parallel aufbauen** | Kleine Projekte, Nebenprojekte, erste eigene Kund:innen -- auch neben einem klassischen Einstieg | Baut ein zweites Standbein auf, das laut Guardian/Fortune-Daten für viele Gen-Z-Absolvent:innen ohnehin zur Realität wird |
+| **Gezielt nach Apprenticeship-ähnlichen Programmen suchen** | Firmen wie IBM, die bewusst wieder in Junior-Einstellungen investieren, aktiv identifizieren und bevorzugt ansprechen | Genau diese Unternehmen bieten noch die "on-the-job learning"-Struktur, die McAfee als verschwindend beschreibt |
+
+**Martin ergänzt aus Unternehmersicht:**
+
+> „Wer mir in einem Bewerbungsgespräch zeigen kann, dass er oder sie schon mal einen Agenten oder ein KI-Tool für ein eigenes kleines Projekt gebaut hat -- und nicht nur benutzt -- sticht sofort heraus. Das ist der Unterschied zwischen 'ich kann mit KI umgehen' und 'ich kann KI einsetzen, um ein Problem zu lösen'."
+
+### 5.1c Die bildungspolitische Frage (Dennis)
+
+> „Wenn wir ehrlich sind, muss sich hier auch das Bildungssystem bewegen, nicht nur der Einzelne. Was müsste sich an Schule und Hochschule konkret ändern? Aus meiner Sicht: KI-Literacy nicht als Extra-Kurs im dritten Semester, sondern von Anfang an in reale Projektarbeit integriert. Und Curricula, die bewusst auf die Fähigkeiten setzen, die McAfees 'Apprenticeship-Ladder' ersetzen müssen -- Urteilsvermögen, Zusammenarbeit, Problemdefinition -- statt nur auf Fachwissen, das sich leicht automatisieren lässt."
+
+**Diskussions-Hook:**  
+> „Wenn Schulen und Hochschulen langsamer sind als der Arbeitsmarkt -- wer sollte sich schneller anpassen? Die Institutionen oder die einzelnen jungen Menschen? Und ist das überhaupt fair verteilt?"
+
 ### 5.2 Die ehrliche Frage an euch
 
-**Host-B an Host A:**  
+**Martin an Dennis:**  
 *"Du hast jetzt die Daten und die strukturelle Analyse. Ich frag mal anders: Was würdest du raten -- wenn du jetzt 18 wärst und nicht wüsstest, wo dein Einstieg sein soll? Bist du optimistisch, dass sich das in den nächsten Jahren bessert? Oder setzt du auf den Weg, der gerade noch funktioniert?"*
 
-**Host-A-Antwort:**  
+**Dennis-Antwort:**  
 *"Ich kann keinen klaren Optimismus geben. Die strukturelle Entwicklung ist klar: Einstiegsjobs werden automatisiert, und das Tempo überholt die Anpassungsfähigkeit des Bildungssystems. Aber: Jeder, der jetzt KI-Kompetenz aufbaut, hat eine Chance, die keine vorherige Generation hatte. Die Frage ist nicht, ob der Einstiegsjob existiert. Die Frage ist: Existiert er noch in der Form, die wir kennen?"*
 
-**Host-B-Abschluss:**  
+**Martin-Abschluss:**  
 *"Ich denke, die wichtigste Erkenntnis ist: Der Einstiegsjob war nie fair. Er war immer ein Glücksspiel -- wo man reinkam, welche Rolle man bekam, wer einem den ersten Job vermittelt hat. KI macht dieses Glücksspiel weniger sichtbar. Aber vielleicht zwingt es uns auch, das gesamte System neu zu denken."*
 
 ---
 
 ## Outro (~3 Min.)
 
-### Drei Takeaways
+### Vier Takeaways
 
-1. **Einstiegsjobs werden durch KI eliminiert -- und das schneller als neue Einstiegspfade entstehen.** McAfees Warnung ist keine Panikmache, sondern eine Analyse einer strukturellen Entwicklung, die Daten und Umfragen belegen. Das Missverhältnis ist messbar: 52.000 wegfallende Jobs in einem Quartal, 90.000 neue Stellen mit Einstiegshürden.
-2. **Gen Z reagiert auf zwei Weisen:** Mit wachsender Besorgnis (80 % sehen KI-Abhängigkeit als Lernrisiko; 48 % glauben: Risiken überwiegen Vorteile) und mit hoher Adaptation (74 % nutzen KI bereits, fast 70 % freelancen oder planen es). Die neue "Generation Entrepreneur" ist kein Trend -- sie ist die Antwort auf ein verschwindendes System.
-3. **Die internationale Perspektive zeigt unterschiedliche Lösungen:** USA (Marktanpassung mit Ausnahmen wie IBM), EU (Regulation mit verschobenen Fristen), Kanada (strukturierte Jugendbeteiligung). Keine davon ist perfekt. Aber alle bestätigen dasselbe Muster: Der klassische Einstieg ist vorbei.
+1. **Einstiegsjobs verändern sich durch KI schneller, als neue, zugängliche Einstiegspfade entstehen.** McAfees Warnung ist keine Panikmache, sondern eine Analyse einer strukturellen Entwicklung, die mehrere unabhängige Datenquellen stützen. Das Missverhältnis ist messbar: 52.050 wegfallende Tech-Jobs allein in den USA im ersten Quartal 2026, dem stehen rund 90.000 neue Agentic-AI-Stellen im gesamten Jahr 2025 gegenüber -- mit deutlich höheren Einstiegshürden.
+2. **Gen Z reagiert auf zwei Weisen:** Mit wachsender Besorgnis (80 % sehen KI-Abhängigkeit als Lernrisiko; 48 % glauben: Risiken überwiegen Vorteile) und mit hoher Adaptation (74 % nutzen KI bereits, fast 70 % freelancen oder planen es). Die neue "Generation Entrepreneur" ist eine nachvollziehbare Reaktion auf ein sich veränderndes System -- kein reiner Modetrend.
+3. **Die internationale Perspektive zeigt unterschiedliche Lösungen, keine davon perfekt:** USA (Marktanpassung mit Ausnahmen wie IBM), EU (Regulation mit verschobenen Fristen), Kanada (strukturierte Jugendbeteiligung). Der deutsche Arbeitsmarkt zeigt zusätzlich: Es ist kein Einbahnstraßen-Szenario -- neue KI-native Rollen entstehen parallel, und Berufe mit hohem menschlichem Anteil bleiben gefragt.
+4. **Es gibt konkrete Hebel, nicht nur Sorge:** KI-Tools aktiv meistern statt nur nutzen, menschliche Kompetenzen gezielt ausbauen, Freelance-Erfahrung parallel aufbauen und gezielt nach Unternehmen suchen, die -- wie IBM -- bewusst wieder in Junior-Einstellungen investieren.
 
 ### Selbstcheck für Hörer:innen
 
@@ -259,13 +321,16 @@ Der Einstiegsjob war nie nur ein Job. Er war der Ort, an dem man gelernt hat, wi
 
 ## Hinweise zur Aufnahme
 
-- **Ton:** Klar, nüchtern, nicht dramatisierend. Die Daten sprechen für sich -- kein Hinzufügen von Pathos.
+- **Ton:** Klar, nüchtern, nicht dramatisierend. Die Daten sprechen für sich -- kein Hinzufügen von Pathos. Begriffe wie „Stau", „eliminiert" bewusst dosiert einsetzen, nicht in jedem zweiten Satz -- sonst wirkt die Folge alarmistischer, als die Datenlage hergibt.
 - **McAfee einordnen:** Er ist Insider, kein Kritiker. Wichtig: Er ist Senior Lecturer am MIT, kein Blogger oder Think-Tank-Außenseiter. Das gibt der These ihre Glaubwürdigkeit.
 - **McAfee-Zitat:** Das direkte Zitat auf Englisch belassen und dann auf Deutsch einordnen -- wirkt authentischer als eine Übersetzung.
-- **986-Prozent-Wachstum korrekt einordnen:** Immer als 2023→2024-Vergleich und von kleiner Basis ausgehend kennzeichnen. Die Q1-2026-Absolutzahl (~90.000 Stellen vs. 52.000 weggefallene) liefert den entscheidenden Kontext.
+- **Agentic-AI-Wachstum korrekt einordnen (korrigiert):** Die frühere „986-Prozent"-Zahl (JobsByCulture) ließ sich nicht sauber gegen die Primärquelle verifizieren und wurde entfernt. Verwendet stattdessen die verifizierte Stanford-AI-Index-Zahl: +280 % (2024→2025), ca. 90.000 Agentic-AI-Stellenausschreibungen in den USA **im Jahr 2025** (nicht Q1 2026 -- das war eine Verwechslung im früheren Entwurf). Immer mit „von kleiner Basis" (0,06 % auf 0,23 % aller US-Stellenanzeigen) kontextualisieren.
+- **Challenger-Zahlen korrigiert:** 52.050 weggefallene US-Tech-Jobs in Q1 2026 ist korrekt und gegen den Originalreport verifiziert. Die frühere Zahl „145.912 insgesamt durch KI-Attribution" war falsch -- korrekt sind **27.645 KI-attribuierte Stellenstreichungen in Q1 2026 (13 % aller 217.362 angekündigten Kürzungen)**. Vor der Aufnahme nochmals gegen die aktuellste Challenger-Veröffentlichung prüfen, da monatlich aktualisiert wird.
 - **Gallup-Zahlen klar trennen:** 48 % = Risiko-Überzeugung; 80 % = Lernbeeinträchtigung durch KI-Abhängigkeit. Beides aus demselben Gallup-Report (April 9, 2026), aber unterschiedliche Aussagen.
 - **Deloitte-Survey:** Immer als "Deloitte 2026 Gen Z / Millennial Survey" bezeichnen, nicht nur "Deloitte". Methode und Stichprobengröße vor Aufnahme prüfen.
 - **IBM-Gegenbeispiel nicht vergessen:** Gibt der Episode Balance -- nicht alles läuft in eine Richtung.
+- **Deutschland-Bezug (neu, Kapitel 2.4) nicht überspringen:** Stepstone Hiring Trends Update und die SAP/Wakefield-Studie sind die einzigen Datenpunkte mit direktem Bezug zum deutschsprachigen Publikum bzw. zu einer positiveren Gegenthese -- ohne diesen Block wirkt die Folge rein US-fokussiert und einseitig negativ.
+- **Praktischer Werkzeugkasten (Kapitel 5.1b) laut vorlesen, nicht nur zusammenfassen:** Das ist der Teil, den Hörer:innen sich am ehesten merken und mitschreiben -- entsprechend Tempo rausnehmen.
 - **Kanada-Abschnitt:** Gen(Z)AI-Initiative als konkretes Beispiel nennen. Mila und CIFAR sind international bekannte Institutionen -- das gibt dem Kanada-Abschnitt Substanz.
 - **EU AI Act Datum:** Transparenzpflichten ab 2. August 2026; Hochrisiko-Beschäftigungs-KI erst ab 2. Dezember 2027 (nach Digital-Omnibus-Verschiebung). Im Podcast den aktuellen Stand nennen.
 - **Keine Panik-Rhetorik:** Es geht um strukturelle Analyse, nicht um Alarmsignale.
@@ -275,7 +340,7 @@ Der Einstiegsjob war nie nur ein Job. Er war der Ort, an dem man gelernt hat, wi
 
 ## Literatur- und Quellenverzeichnis (APA-artig, für Shownotes)
 
-Challenger, Gray & Christmas. (2026, April). *Challenger Report: March cuts rise 25% from February, AI leads reasons*. https://www.challengergray.com/blog/challenger-report-march-cuts-rise-25-from-february-ai-leads-reasons
+Challenger, Gray & Christmas. (2026, April 2). *Challenger Report: March cuts rise 25% from February, AI leads reasons*. https://www.challengergray.com/blog/challenger-report-march-cuts-rise-25-from-february-ai-leads-reasons
 
 Centre for Media, Technology and Democracy / Mila / CIFAR. (2026). *Gen(Z)AI -- A Youth Citizens' Assembly on AI*. Canadian National Institute for Artificial Intelligence (CNIA). https://cnia.ca/news1/13548214
 
@@ -293,7 +358,11 @@ Gallup. (2026, April 9). *Gen Z's AI Adoption Steady, but Skepticism Climbs*. Ga
 
 InfoQ. (2026, April). *Microsoft's Russinovich and Hanselman warn AI is hollowing out the Junior Developer Pipeline*. https://www.infoq.com/news/2026/04/junior-developer-pipeline-crisis/
 
-JobsByCulture. (2026). *The Agentic AI Hiring Boom: 280% Job Growth & What It Means for Engineers in 2026* [zitiert Stanford AI Index]. https://jobsbyculture.com/blog/agentic-ai-hiring-boom-2026
+Lightcast / Stanford Institute for Human-Centered AI (HAI). (2026, April 13). *Stanford AI Index Report 2026 -- Chapter 4: Economy* [Agentic AI als neuer Skill-Cluster, 90.000 US-Stellenausschreibungen 2025, +280 % YoY]. https://lightcast.io/resources/research/stanford-ai-index-2026
+
+SAP / Wakefield Research. (2026, Mai). *Wie verändert KI den Berufseinstieg?* [Studie zu CHRO-Erwartungen an Berufseinsteiger:innen]. SAP News Center. https://news.sap.com/germany/2026/05/ki-trends-einstiegsjobs/
+
+The Stepstone Group. (2025, Dezember 16). *Stepstone-Analyse: Quereinstieg, Jobsicherheit und KI prägen den Arbeitsmarkt 2026* [Hiring Trends Update]. https://www.thestepstonegroup.com/deutsch/newsroom/pressemitteilungen/stepstone-analyse-quereinstieg-jobsicherheit-und-ki-praegen-den-arbeitsmarkt-2026/
 
 Office of the Chief Science Advisor Canada / Youth Council. (2026). *Shaping Artificial Intelligence for Tomorrow: Youth Insights and Strategic Recommendations*. Government of Canada. https://science.gc.ca/site/science/en/office-chief-science-advisor/science-advisory-team/ocsas-youth-council-csa-yc/shaping-artificial-intelligence-tomorrow-youth-insights-and-strategic-recommendations
 
@@ -311,8 +380,8 @@ Upwork / CNBC. (2024, Mai 24). *Nearly 70% of Gen Z is actively freelancing or p
 | 2 | Fortune (13.2.2026) | IBM verdreifacht Gen-Z-Einstellungen | Gegenbeispiel Kapitel 2.3, Kapitel 4.1 |
 | 3 | Gallup (April 9, 2026) | 48 % Risiko > Vorteile; 80 % KI-Lernen-Beeinträchtigung | Stimmungslage, Kapitel 3.1 |
 | 4 | Deloitte 2026 Gen Z/Millennial Survey | 74 % nutzen KI am Arbeitsplatz | Adaptationsrate + Ironie des Ersatzes |
-| 5 | Challenger, Gray & Christmas (Q1 2026) | 52.050 Tech-Jobs weg, 145.912 insgesamt | Jobverlust-Daten, Kapitel 1 |
-| 6 | JobsByCulture / Stanford AI Index (2026) | Agentic-AI-Rollen: 986 % (2023→2024), ~90.000 Stellen Q1 2026 | Wachstum der neuen Rollen mit Absolutkontext |
+| 5 | Challenger, Gray & Christmas (Q1 2026, verifiziert) | 52.050 Tech-Jobs weg; 27.645 KI-attribuierte Kürzungen (13 % von 217.362 gesamt) | Jobverlust-Daten, Kapitel 1.2 |
+| 6 | Lightcast / Stanford AI Index 2026 (verifiziert) | Agentic AI als neuer Skill-Cluster: +280 % (2024→2025), ~90.000 US-Stellen 2025 | Wachstum der neuen Rollen mit Absolutkontext, Kapitel 1.2 |
 | 7 | InfoQ / Microsoft (Apr. 2026) | Junior-Developer-Pipeline, −60 % Ausschreibungen | Pipeline-Krise, strukturell |
 | 8 | Pardes, The Guardian (25.4.2026) | Gen Z Entrepreneurship, 8,3 % Arbeitslosigkeit, 30 % Vollzeit | Gen-Z-Strategie, Kapitel 3.2 |
 | 9 | Fortune (24.4.2026) | Gen Z verlässt Corporate America | Gen-Z-Strategie, Kapitel 3.2 |
@@ -321,21 +390,27 @@ Upwork / CNBC. (2024, Mai 24). *Nearly 70% of Gen Z is actively freelancing or p
 | 12 | EU AI Act / aiacto.eu (2026) | Transparenzpflichten Aug. 2026; Hochrisiko-Beschäftigung Dez. 2027 | EU-Regulation, Kapitel 4.2 |
 | 13 | CNIA / Gen(Z)AI Initiative (2026) | 100 Jugendliche gestalten KI-Policy, vier Regionalforen | Kanada-Abschnitt, Kapitel 4.3 |
 | 14 | Chief Science Advisor Youth Council CA (2026) | Bericht zu KI, Jugendbeteiligung, Digital Divide | Kanada-Abschnitt, Kapitel 4.3 |
+| 15 | Stepstone Hiring Trends Update (16.12.2025) | KI-Manager-Suche +174 %, Quereinstieg-Fokus, Berufe mit Menschenkontakt weiter gefragt | Deutschland-Bezug, Kapitel 2.4 |
+| 16 | SAP / Wakefield-Studie (Mai 2026) | 88 % der CHROs: Einsteiger:innen werden dank KI schneller produktiv, nicht überflüssig | Positive Gegenstimme, Kapitel 2.4 |
 
 ---
 
 ## Redaktionelle Notizen
 
 - **McAfee-Zitat:** Das direkte Englisch-Zitat aus dem Fortune-Artikel (Fore, 2026) ist verifiziert und kann so verwendet werden. Kein Paraphrasieren mehr nötig.
-- **986-Prozent-Wachstum:** Korrekte Einordnung im Skript: Vergleich 2023→2024 per Stanford AI Index. Q1-2026-Absolutzahl (~90.000 Agentic-AI-Stellen) jetzt im Skript enthalten. Im Gespräch das Missverhältnis zu den 52.050 weggefallenen Jobs klar benennen.
+- **Agentic-AI-Wachstum korrigiert:** Die frühere „986 %"-Zahl (Sekundärquelle JobsByCulture, Vergleich 2023→2024) ließ sich nicht sauber gegen eine Primärquelle verifizieren und wurde entfernt. Ersetzt durch die verifizierte Zahl aus dem Stanford AI Index 2026 (Datenpartner Lightcast, veröffentlicht 13. April 2026): +280 % Wachstum 2024→2025, ca. 90.000 US-Stellenausschreibungen **im Jahr 2025** (nicht Q1 2026 -- diese Zeitraum-Verwechslung aus dem vorherigen Entwurf wurde korrigiert). Im Gespräch weiterhin das Missverhältnis zu den 52.050 weggefallenen Tech-Jobs (Q1 2026) klar benennen, aber die unterschiedlichen Zeiträume transparent machen.
+- **Challenger-Zahlen korrigiert:** Die frühere Zahl „145.912 insgesamt durch KI-Attribution" ließ sich nicht gegen den Originalreport verifizieren und war falsch. Korrekt (Challenger, Gray & Christmas, Report vom 2. April 2026): 52.050 Tech-Jobs weg in Q1 2026 (bestätigt), sowie 27.645 explizit KI-attribuierte Stellenstreichungen in Q1 2026 -- das entspricht 13 % aller 217.362 in diesem Quartal angekündigten Kürzungen in den USA.
 - **Gallup-Daten:** Beide relevanten Datenpunkte sind nun aus dem verifizierten Gallup-Report (April 9, 2026) entnommen: 48 % (Risikoüberzeugung) und 80 % (Lernbeeinträchtigung). Die frühere "90 %"-Zahl war nicht in diesem Report und wurde entfernt.
 - **Deloitte-Survey:** Immer als "Deloitte 2026 Gen Z / Millennial Survey" bezeichnen. Methode und Stichprobengröße vor Aufnahme auf der Deloitte-Website prüfen.
 - **Guardian-Artikel:** Primärquelle verifiziert: Pardes, A., The Guardian, 25. April 2026. URL korrekt. Die "35 %"-Zahl aus dem Entwurf war nicht belegbar -- ersetzt durch verifizierte Daten (8,3 % Arbeitslosigkeit, 30 % Vollzeit-Quote).
 - **Kanada-Abschnitt:** Gen(Z)AI-Initiative vollständig mit Trägerinstitutionen, Zeitraum und Empfehlungen belegt. Chief Science Advisor Youth Council als Zweitquelle ergänzt.
 - **EU AI Act:** Aktualisiert auf den Stand nach Digital-Omnibus-Einigung (7. Mai 2026): Transparenzpflichten ab 2. August 2026 bestätigt; Hochrisiko-Beschäftigungs-KI nun erst ab 2. Dezember 2027. Wichtig: Stand vor Aufnahme nochmals prüfen, da sich die Gesetzeslage bewegt.
 - **IBM-Gegenbeispiel:** Neu hinzugefügt als inhaltliche Balance. Zeigt, dass nicht alle Unternehmen denselben Weg gehen -- wichtig für eine differenzierte Diskussion ohne Schwarmdynamik.
-- **Keine Panik-Rhetorik:** Der Podcast soll informieren, nicht erschrecken. Die Daten reichen aus.
+- **Deutschland-Bezug (neu):** Kapitel 2.4 mit Stepstone Hiring Trends Update (16.12.2025) und SAP/Wakefield-Studie (Mai 2026) ergänzt. Grund: Die Episode war zuvor fast ausschließlich US-datenbasiert, obwohl der Podcast ein deutschsprachiges Publikum hat. Die SAP/Wakefield-Perspektive liefert zudem die geforderte positivere Gegenstimme, ohne die McAfee-These zu widerlegen.
+- **Praktischer Werkzeugkasten (neu, Kapitel 5.1b/5.1c):** Ergänzt auf Wunsch, um die Folge nicht bei der Problemanalyse enden zu lassen. Enthält konkrete, umsetzbare Schritte statt nur struktureller Diagnose.
+- **Host-Namen vereinheitlicht:** "Host A" / "Host B" wurden zu Dennis (Akademiker) und Martin (Unternehmer/Recruiter) vereinheitlicht -- konsistent mit den anderen Folgen des Podcasts.
+- **Keine Panik-Rhetorik:** Der Podcast soll informieren, nicht erschrecken. Die Daten reichen aus. Dosiert eingesetzte Begriffe wie "Stau" oder "eliminiert" wirken glaubwürdiger als eine durchgehend dramatisierende Sprache.
 
 ---
 
-*Ende der Episode -- Geschätzte Sprechzeit: 33–43 Minuten je nach Gesprächstempo und Interaktion zwischen den Hosts.*
+*Ende der Episode -- Geschätzte Sprechzeit: 40–50 Minuten je nach Gesprächstempo, Länge der Martin/Dennis-Interaktion und Umfang des praktischen Werkzeugkasten-Blocks.*

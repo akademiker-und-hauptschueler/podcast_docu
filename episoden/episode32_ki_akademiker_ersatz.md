@@ -4,8 +4,8 @@
 **Arbeitstitel:** „Jedes fünfte Unternehmen denkt, KI ersetzt Akademiker — und fast alle irren sich dabei"  
 **Stand:** Juni 2026  
 **Anlass:** ifo Konjunkturumfrage, 12. Juni 2026  
-**Thematische Verbindung:** Folge 04 (KI-Einstiegsjob-Stau Gen Z), Folge 01 (Gründer)  
-**Geschätzte Länge:** ca. 55–65 Minuten  
+**Thematische Verbindung:** 
+**Geschätzte Länge:** ca. 30 Minuten  
 
 ---
 

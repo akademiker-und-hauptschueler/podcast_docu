@@ -105,10 +105,11 @@ Die Folge folgt **einer** Leitfrage in drei Bewegungen. Alles andere dient nur a
 | **März 2026** | Vertragsschluss für HammerHAI (HLRS Stuttgart) | Kapitel 2 |
 | **Feb.–Mai 2026** | Hoher Anteil chinesischer Open-Weight-Modelle an OpenRouter-Token in einzelnen Zeitfenstern (bis zu 61 %) | Kapitel 3, mit Vorbehalt |
 | **Mai 2026** | Epoch AI misst einen Abstand von ca. vier Monaten bzw. acht Indexpunkten zwischen offenen und geschlossenen Modellen | Kapitel 4 |
-| **9.–12.6.2026** | Fable 5 und Mythos 5 erscheinen, dann US-Exportkontrollen und weltweite Abschaltung | **Hook** |
-| **Juni 2026** | GPT-5.6 zunächst nur für „trusted partners" | Hook |
-| **30.6.–1.7.2026** | Zugang zu Fable 5 wird wiederhergestellt | Präzedenzfall bleibt bestehen |
-| **Juli 2026** | Kimi K3 mit ca. 2,8 Billionen Parametern – Status der veröffentlichten Gewichte vor Aufnahme prüfen | Kapitel 4 |
+| **9.–12.6.2026** | Fable 5 und Mythos 5 erscheinen, dann US-Exportkontrollen wegen eines gemeldeten Cybersecurity-Jailbreaks und weltweite Abschaltung | **Hook** |
+| **26.6.2026** | GPT-5.6 startet mit rund 20 von der US-Regierung einzeln freigegebenen Partnern | Hook |
+| **30.6.–1.7.2026** | Zugang zu Fable 5 wird wiederhergestellt; Mythos 5 bleibt auf „Project Glasswing"-Partner beschränkt | Präzedenzfall bleibt teilweise aktiv |
+| **9.7.2026** | GPT-5.6 erreicht allgemeine Verfügbarkeit | Hook, vor Aufnahme final bestätigen |
+| **26./27.7.2026** | Kimi K3 (ca. 2,8 Billionen Parameter) veröffentlicht offene Gewichte unter eigener, kommerzfreundlicher Lizenz | Kapitel 4, bestätigt |
 
 ---
 
@@ -116,11 +117,13 @@ Die Folge folgt **einer** Leitfrage in drei Bewegungen. Alles andere dient nur a
 
 ### Der Tag, an dem das beste Modell weg war
 
-**12. Juni 2026:** Die US-Regierung verhängt Exportkontrollen gegen **Claude Fable 5** und **Mythos 5** – Zugang nur noch für US-Staatsangehörige. Da Anthropic die Nationalität von Nutzer:innen nicht in Echtzeit prüfen kann, wird der Zugang **weltweit abgeschaltet**. Betroffen sind die Claude-Plattform, Claude Code und Claude Cowork.
+**12. Juni 2026:** Die US-Regierung verhängt Exportkontrollen gegen **Claude Fable 5** und **Mythos 5** – Zugang nur noch für US-Staatsangehörige. Anlass war kein diffuses „KI-Dominanz"-Kalkül, sondern ein konkreter Fund: Amazon-Sicherheitsforscher hatten eine Methode gefunden, Fable 5 so zu befragen, dass es Software-Schwachstellen identifizierte – in einem Fall inklusive Exploit-Code. Da Anthropic die Nationalität von Nutzer:innen nicht in Echtzeit prüfen kann, wird der Zugang **weltweit abgeschaltet**. Betroffen sind die Claude-Plattform, Claude Code und Claude Cowork.
 
-Parallel dazu beschränkt OpenAI den Zugang zu **GPT-5.6** zunächst auf eine kleine Gruppe geprüfter Partner.
+**Die Pointe, die das Lock-in-Argument noch schärfer macht [belegt]:** Laut Anthropics eigener Prüfung ließ sich dieselbe Technik auch bei GPT-5.5, Claude Opus 4.8 und Kimi K2.7 anwenden. Das Risiko steckte also nicht in einem einzelnen Modell, sondern in einer ganzen Modellklasse – nur getroffen hat es den Anbieter, den die Regierung zufällig zuerst adressierte.
 
-**30. Juni / 1. Juli:** Die Exportkontrollen für Fable werden aufgehoben, der Zugang kehrt zurück. **Der Präzedenzfall bleibt trotzdem bestehen:** Frontier-KI kann geopolitisch rationiert werden – auch für zahlende Kund:innen.
+Parallel dazu beschränkt OpenAI den Zugang zu **GPT-5.6** ab dem 26. Juni zunächst auf rund 20 von der US-Regierung einzeln freigegebene Partner – ebenfalls auf behördlichen Wunsch, im Rahmen einer freiwilligen Sicherheitsprüfung. Die allgemeine Verfügbarkeit folgte bereits am 9. Juli 2026 **[belegt, vor Aufnahme final bestätigen]**.
+
+**30. Juni / 1. Juli:** Die Exportkontrollen für Fable 5 werden aufgehoben, der Zugang kehrt zurück – mit einem neu trainierten Sicherheitsfilter, der die gemeldete Technik in über 99 % der Fälle blockiert. **Mythos 5 bleibt dagegen bis heute eingeschränkt:** Zugang gibt es nur für ausgewählte US-Organisationen im „Project Glasswing", eine breite Freigabe steht weiterhin aus. **Der Präzedenzfall bleibt also nicht nur symbolisch bestehen, sondern ist an einer Stelle bis heute aktiv:** Frontier-KI kann geopolitisch rationiert werden – auch für zahlende Kund:innen.
 
 ### Moderationsbrücke in die Folge
 
@@ -285,7 +288,7 @@ In einzelnen Zeitfenstern des Jahres 2026 entfiel ein hoher Anteil der über Ope
 
 ### 4.1 Zwei Kurven, die sich gegenläufig entwickeln
 
-**Kurve 1 – die offene Spitze entfernt sich von eurer Hardware:** DeepSeek R1 (Anfang 2025, ca. 671 Milliarden Parameter) war Ausgangspunkt für destillierte Varianten, die bald auf Workstations liefen. Kimi K3 (Juli 2026) bringt es bereits auf rund **2,8 Billionen Parameter** **[belegt]** – der Status der veröffentlichten Gewichte sollte vor der Aufnahme geprüft werden. Bei 4-Bit-Quantisierung entspricht das rund 1,4 Terabyte an Gewichtsdaten. Ein Gerät der DGX-Spark-Klasse verfügt über etwa 64 GB Arbeitsspeicher – ein Unterschied um den Faktor 22.
+**Kurve 1 – die offene Spitze entfernt sich von eurer Hardware:** DeepSeek R1 (Anfang 2025, ca. 671 Milliarden Parameter) war Ausgangspunkt für destillierte Varianten, die bald auf Workstations liefen. Kimi K3 (Moonshot AI) bringt es auf rund **2,8 Billionen Parameter**, davon 104 Milliarden pro Token aktiv (896 Experten, 16 davon aktiv) **[belegt]**. Die Gewichte wurden am 26./27. Juli 2026 tatsächlich offen veröffentlicht – nativ in 4-Bit-Quantisierung (MXFP4), unter einer eigenen, für die meisten Anwendungsfälle freien Lizenz. Der native Download entspricht damit bereits den rund **1,4 Terabyte** an Gewichtsdaten. Ein Gerät der DGX-Spark-Klasse verfügt über etwa 64 GB Arbeitsspeicher – ein Unterschied um den Faktor 22.
 
 **Wichtige Klarstellung zu Mixture-of-Experts:** Diese Architektur löst das Speicherproblem nicht. Dass pro Anfrage nur ein Teil der Experten aktiv ist, senkt die Rechenlast, nicht den Speicherbedarf. Welche Experten aktiviert werden, entscheidet sich pro Token und lässt sich nicht vorhersagen – deshalb muss praktisch das gesamte Modell im Speicher vorgehalten werden.
 
@@ -300,6 +303,8 @@ In einzelnen Zeitfenstern des Jahres 2026 entfiel ein hoher Anteil der über Ope
 **[belegt]** Laut Epoch AI lag der Rückstand offener gegenüber geschlossenen Spitzenmodellen zwischen Januar und Mai 2026 bei durchschnittlich rund **vier Monaten** beziehungsweise **acht Punkten** im Epoch Capability Index – vergleichbar mit dem Unterschied zwischen GPT-5 und GPT-5.5. Bei einer strengeren Messmethode liegt der Wert bei etwa sechs Monaten, was der von Jensen Huang auf der CES genannten Größenordnung entspricht. Der Verlauf im Zeitraffer: 2024 lag der Abstand noch bei rund einem Jahr, im Oktober 2025 bei etwa drei Monaten, aktuell bei etwa vier Monaten. Der Abstand ist 2025 also stark geschrumpft und seither auf einem Niveau von drei bis vier Monaten stehen geblieben – zuletzt sogar leicht gewachsen.
 
 **Moderationsmoment:** Die Zahl klingt danach, als würden offene Modelle immer weiter aufholen. Die Daten zeigen eher: Sie sind angekommen und bleiben dort. Für die Planung ist das die bessere Nachricht – ein Abstand von drei bis vier Monaten ist kalkulierbar, ein Abstand, der immer weiter gegen null schrumpft, wäre es nicht.
+
+**Ehrlichkeits-Caveat, den Epoch AI selbst mitliefert:** Die eigene Methodik kann die Lücke eher unterschätzen als überschätzen, weil führende Anbieter ihre stärksten Modelle nicht immer öffentlich zum Vergleich stellen. Der tatsächliche Rückstand könnte also größer sein als die genannten vier Monate. Auch der Wert „2024 rund ein Jahr" stammt aus einer längeren, gröberen Trendbetrachtung und sollte als Anhaltspunkt erzählt werden, nicht als scharfe Punktmessung.
 
 Die im Ausgangsvideo genannte Zahlenreihe „13 Punkte im Frühjahr 2025, nur noch 6 Punkte im Mai 2026" auf dem Artificial-Analysis-Index wird hier bewusst **nicht** übernommen, da sich die genaue Zeitreihe nicht sauber gegen eine Primärquelle verifizieren ließ.
 
@@ -447,7 +452,7 @@ Souveräne KI bedeutet am Ende zweierlei: unter Druck weiterarbeiten zu können 
 - Kapitel 4 nicht kürzen – dort liegt der inhaltliche Mehrwert gegenüber einer reinen Lock-in-Erzählung.
 - Ton: nüchtern und abwägend; die Begeisterung aus dem Ausgangsvideo nur mitsamt den entsprechenden Korrekturen übernehmen.
 - Keine ausformulierten Dialoge – nur Stichpunkte, Fakten und Diskussionsimpulse.
-- Vor der Aufnahme aktuell prüfen: Status von Fable und GPT-5.6, Veröffentlichungsstatus der Kimi-Gewichte, Links zu Stanford und Epoch für die Shownotes, Aktualität der Nicht-LLM-Beispiele.
+- Vor der Aufnahme aktuell prüfen: ob GPT-5.6 zum Aufnahmetermin tatsächlich allgemein verfügbar ist (Stand Recherche: seit 9. Juli 2026) und ob sich der Mythos-5-Zugang inzwischen weiter geöffnet hat, Links zu Stanford und Epoch für die Shownotes, Aktualität der Nicht-LLM-Beispiele. Die Kimi-K3-Gewichte sind bestätigt offen verfügbar (26./27. Juli 2026) und müssen nicht mehr geprüft werden.
 - Höchstens zwei der vier Anekdoten ausführlich erzählen, die übrigen nur kurz erwähnen.
 
 ---
@@ -455,6 +460,14 @@ Souveräne KI bedeutet am Ende zweierlei: unter Druck weiterarbeiten zu können 
 ## Literatur- und Quellenverzeichnis (für die Shownotes)
 
 Anthropic. (2026, 30. Juni). *Redeploying Claude Fable 5.* https://www.anthropic.com/news/redeploying-fable-5
+
+Anthropic. (2026, 12. Juni). *Statement on the US government directive to suspend access to Fable 5 and Mythos 5.* https://www.anthropic.com/news/fable-mythos-access
+
+Cloud Security Alliance. (2026). *Research Note: AI Model Export Controls and Enterprise Governance.* https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-model-export-controls-enterprise-govern/
+
+The Decoder. (2026, Juni). *OpenAI's GPT-5.6 rollout now requires US government approval on a "customer by customer basis".* https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis/
+
+Moonshot AI. (2026, 26./27. Juli). *Kimi K3 – Model Card und Lizenz.* https://github.com/MoonshotAI/Kimi-K3
 
 Epoch AI. (2026, Mai). *Open models lag state-of-the-art closed models by 4 months.* https://epoch.ai/data-insights/open-closed-eci-gap
 
@@ -480,15 +493,16 @@ Recherche-Video. (2026). *7 Gründe, warum lokale KI massiv unterschätzt wird* 
 
 | # | Quelle | Verwendung |
 | --- | --- | --- |
-| 1 | Anthropic, Redeploy-Ankündigung | Hook |
-| 2 | Epoch AI, Open-Closed-Gap | Kapitel 4 |
+| 1 | Anthropic, Redeploy-Ankündigung + Jailbreak-Statement | Hook |
+| 2 | Epoch AI, Open-Closed-Gap (inkl. Unterschätzungs-Caveat) | Kapitel 4 |
 | 3 | Stanford AI Index 2025 | Kapitel 4, Kostenkurve |
 | 4 | a16z, „LLMflation" | Kapitel 4 |
 | 5 | „From AGI to ASI" | Kapitel 4, Struktur |
 | 6 | OpenRouter, mit Vorbehalt | Kapitel 3 |
 | 7 | Handbuch: Anekdoten, BYOM, Kapitel 1b | Kapitel 1–2, 5–7 |
-| 8 | Kimi K3, Hardware-Faktor 22 | Kapitel 4, Kurve 1 |
+| 8 | Kimi K3, GitHub/Model Card, bestätigt offen, Hardware-Faktor 22 | Kapitel 4, Kurve 1 |
 | 9 | Near-/Offshore-Berichte | Kapitel 6 |
+| 10 | The Decoder / CSA, GPT-5.6-Rollout und Exportkontroll-Mechanik | Hook |
 
 ---
 

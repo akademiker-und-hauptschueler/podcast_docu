@@ -12,6 +12,7 @@
 
 - **[belegt]** — gegen Primärquelle geprüft
 - **[Buchthese]** — Behauptung Gülbay-Peischard, nicht unabhängig verifiziert
+- **[Dennis, nach Lektüre]** — Leseeindruck Dennis, 2.10.2026; keine Seitenzahl, nicht als wörtliches Zitat sprechen
 - **[eigene Einordnung]** — Moderationslesart
 - **[bereits Folge 32]** — nicht noch einmal ausbreiten
 
@@ -62,7 +63,7 @@ Das ist eine **Debattenfolge**, keine Buchrezension. Ihr spielt nicht „Dennis 
 
 1. Hook: der erste Satz des Buchs + ZEIT-Schuhe.
 2. Wer spricht hier eigentlich? (HAW, nicht Elite-Uni — das ist Teil der Pointe.)
-3. Fünf Thesen, jeweils mit Gegenhaken.
+3. Fünf Achsen aus Dennis' Lektüre (flaches Niveau, Eltern/Curling, Konjunktiv, Social Media, Gesellschaftsfolgen) — dann Gegenhaken.
 4. Die Statistik-Falle (12 %).
 5. Professorin vs. Studentin: Individuum vs. System.
 6. Seit dem Buch: Zeitstrahl März 2025 → September 2026.
@@ -131,6 +132,39 @@ Das ist eine **Debattenfolge**, keine Buchrezension. Ihr spielt nicht „Dennis 
 **Diskussions-Hook:**
 
 > „Die Selbstkritik an verbeamteter Bequemlichkeit — nimmt ihr die ernst, oder ist das der rhetorische Türöffner, bevor es wieder gegen die Jugend geht?“
+
+### Achsen aus der Lektüre **[Dennis, nach Lektüre, 2.10.2026]**
+
+Dennis hat das Buch gelesen. Das ist der rote Faden, den die Rezensionen (LTO, ZEIT, n-tv) nicht so erzählen: nicht fünf Beschimpfungen, sondern eine Ursachenkette. Frage des Buchs, wie er sie hört: **Woran liegt das flache Niveau?** Nicht nur an den Studierenden.
+
+**Offen:** Die Sprachaufnahme bricht bei der ersten Gesellschaftsfolge ab, mitten im Satz zum Niveau der Mittelmäßigen. Folgen 2 und 3 fehlen noch. Nicht erfinden. Sobald der Rest da ist, hier ergänzen.
+
+| # | Achse | Was Dennis aus dem Buch mitnimmt | Wofür ihr das in der Sendung braucht |
+| --- | --- | --- | --- |
+| 1 | **Studium auf flachem Niveau** | Einsicht, Demut, Verständnis fehlen. Organisationsprobleme. Schlechte Prüfungsvorbereitung, schlechte Ergebnisse. | Der Einstieg in ihre Diagnose — bevor Eltern und System kommen. Sonst klingt der Rest nach Generationenbeschimpfung ohne Gegenstand. |
+| 2 | **Elternhaus** | Respekt, Kommunikation, höfliche Form fehlen; stattdessen Anspruchsdenken und Ich-Perspektive. Mühe, Leistung, sich etwas erarbeiten wird nicht beigebracht, sondern Querstellen. | Das ist ihre Antwort auf „woran liegt das“. Nicht die Uni allein. |
+| 3 | **Elternabend-Mechanik** | So lange auf einem Thema herumhacken, bis Lehrkraft oder Entscheider demotiviert sind oder nachgeben. Schule senkt das Niveau, Hochschule ist nicht ausgenommen. Dozenten: aushalten oder nachgeben. Nachgeben ist für sie die falsche der beiden Optionen. | Der operative Kern. Anschluss an These 5 (verbeamtete Bequemlichkeit), aber die Druckrichtung ist hier **von unten/außen**, nicht nur Bequemlichkeit von oben. |
+| 4 | **Curling-Eltern** | Wie beim Curling: Hindernisse werden vor dem Kind weggewischt. Kinder nabeln sich nicht ab, sind nicht eigenständig, nicht resilient, weil Eltern abnehmen und abpuffern. | Ihr stärkstes Bild. Einmal erklären (Stein, Besen, Bahn frei), dann nicht auswalzen. |
+| 5 | **Leben im Konjunktiv** | Wäre, hätte, sollte — bei Studierenden und bei Eltern wenig Selbstreflexion. Rückblick ersetzt die Frage, was man anders entschieden hätte, solange es noch ging. | Gegenmittel zur Opfererzählung in der Sendung: nicht spotten, den Mechanismus benennen. |
+| 6 | **Social Media** | Kanäle, in denen Frust abgelassen wird. Bubbles bei Eltern und Studierenden. Wer dort bestätigt bekommt, dass Druck und Kritik trotzdem das gewünschte Ergebnis bringen, lernt Nachgeben als Strategie. | Nicht „Handy macht dumm“ (das ist PISA-Folge). Hier: **Beschwerdedruck wird belohnt.** |
+
+**Gesellschaftsfolge 1 von 3 — nur diese ist vollständig angekommen:**
+
+Demotiviertes Lehr- und Erziehungspersonal. Weniger Lust auf den Beruf, Fachkräftemangel auch deshalb. Gegenwind von Eltern, aus der Gesellschaft, von Schüler:innen und Studierenden. Maulkorb. Letzte Instanz: Klage. Folge inside der Institution: **bessere Noten für schlechtere Leistungen.** Das Niveau nivelliert sich ins Mittelmaß. Dennis' Brücke: das ist der Anschluss an die PISA-Folge ([`12_pisa_schock_2026.md`](12_pisa_schock_2026.md)), nicht ein zweites PISA-Special. Der abgeschnittene Satz ging weiter beim **Niveau der mittelmäßigen Personen** — dort weitermachen, sobald der Rest da ist.
+
+**So sprechen, nicht so:**
+
+- „Curling-Eltern“, „Konjunktiv“, „nachgeben oder aushalten“ sind ihre Bilder, von Dennis nacherzählt. Keine Seitenzahl im Manuskript. Nicht tun, als stünde das Zitat wortgleich auf Seite X.
+- „Nivellieren ins Mittelmaß“ ist Dennis' Lesart der Notenfolge, nicht die PISA-Punktzahl. Die Punkte bleiben in Block 5.
+- Die Eltern-These nicht zur Alleinschuld machen. Block 3 (Verantwortung) bleibt dreigeteilt: Erziehung, Hochschule, Herkunft aus PISA.
+
+**Diskussions-Hooks aus der Lektüre:**
+
+> „Wenn der Elternabend so lange geht, bis die Lehrkraft nachgibt — ist das Engagement, oder ist das die Stelle, an der das Niveau kippt?“
+
+> „Curling-Eltern räumen die Bahn frei. Ab wann ist Fürsorge das Hindernis, das das Kind nie selbst wegschieben lernt?“
+
+> „Bessere Noten für schlechtere Leistungen — ist das Feigheit der Lehrkräfte, Klageangst, oder ein System, das Widerspruch teurer macht als eine Zwei minus?“
 
 ---
 

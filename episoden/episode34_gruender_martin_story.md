@@ -1,4 +1,4 @@
-# Episode 32: Ich hätte früher gründen sollen — oder doch nicht?
+# Episode 34: Ich hätte früher gründen sollen — oder doch nicht?
 
 **Podcast:** Der Akademiker und der Hauptschüler  
 **Arbeitstitel:** Rekordgründungen im Krisenjahr — Martins Weg, echte Zahlen, harte Wahrheit  

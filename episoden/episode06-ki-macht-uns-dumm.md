@@ -1,4 +1,4 @@
-# Episode 04 von "Der Akademiker und der Hauptschüler" - Macht uns KI dümmer?
+# Episode 06 von "Der Akademiker und der Hauptschüler" - Macht uns KI dümmer?
 
 ## Einführung und Kontext (3 Min.)
 
@@ -579,5 +579,5 @@
 ---
 
 *Notizen erstellt am: 17. Oktober 2025*  
-*Vorbereitung für Episode 04 des Podcasts "Der Akademiker und der Hauptschüler"*  
+*Vorbereitung für Episode 06 des Podcasts "Der Akademiker und der Hauptschüler"*  
 *Geschätzte Podcast-Länge: 30-35 Minuten*

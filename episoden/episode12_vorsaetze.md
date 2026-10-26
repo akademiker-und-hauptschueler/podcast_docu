@@ -1,4 +1,4 @@
-# Episode 15: Weihnachtsstress, Neujahrsvorsätze und der große Selbstbetrug
+# Episode 12: Weihnachtsstress, Neujahrsvorsätze und der große Selbstbetrug
 
 ## Kernthese der Episode
 

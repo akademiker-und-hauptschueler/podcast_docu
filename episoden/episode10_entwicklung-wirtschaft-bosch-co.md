@@ -1,4 +1,4 @@
-# Episode 13: Bosch in der Krise – Stürmische Zeiten für das Traditionsunternehmen
+# Episode 10: Bosch in der Krise – Stürmische Zeiten für das Traditionsunternehmen
 
 **Podcast: Akademiker & Hauptschüler**  
 **Thema:** Wirtschaftliche Entwicklung bei Bosch und die Auswirkungen auf die Region Stuttgart  

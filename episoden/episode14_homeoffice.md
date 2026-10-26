@@ -1,4 +1,4 @@
-# Episode 16: Homeoffice – Fluch oder Segen? Die große Arbeitswelt-Debatte im D-A-CH-Raum
+# Episode 14: Homeoffice – Fluch oder Segen? Die große Arbeitswelt-Debatte im D-A-CH-Raum
 
 ## Kernthese der Episode
 

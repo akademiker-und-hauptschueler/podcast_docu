@@ -1,4 +1,4 @@
-  ## Episode 14: KI in 2025 – Die Landkarte der Foundation Models (mit Zeitstrahl)
+  ## Episode 13: KI in 2025 – Die Landkarte der Foundation Models (mit Zeitstrahl)
 
   Das Jahr 2025 neigt sich dem Ende zu – und wenn man es in einem Bild beschreiben müsste, dann wäre es **kein Wettrennen um „das größte Modell"** mehr, sondern eine **Landkarte aus Spezialisierungen**:
 

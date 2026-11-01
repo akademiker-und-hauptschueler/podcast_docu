@@ -37,6 +37,9 @@
 - ❌ „Neckarsulm wird 2034 geschlossen“ → nur **internes Papier** (WiWo), VW kommentiert nicht
 - ❌ „VW hat 6,4 Mrd. verloren“ → die Porsche-Abschreibung ist **nicht zahlungswirksam** (Buchwert, kein Geldabfluss)
 - ❌ BMW „8.000 Stellen“ / „650.000 € Abfindung“ als BMW-Angabe → nur **Medienberichte**
+- ❌ „VW spart 31 Milliarden“ → die rund 31 Mrd. € sind laut VW das **operative Ergebnis** bei 9 % Rendite, kein Sparprogramm
+- ❌ „Der operative Verlust kostet kein Geld“ → unbar sind laut VW die Porsche-Abschreibung und rund 1 Mrd. € in China; zu Osnabrück sagt VW das nicht
+- ❌ „China-Markt −21,7 %“ als gesicherte Zahl → nur Bericht; belegt sind −21,0 % Einzelhandel (CPCA) und −6,1 % Pkw-Absatz (CAAM)
 - ❌ Selbstlob ohne die Stellen, an denen wir danebenlagen
 - ❌ Inhalte von Folge 37 und 39 zitieren, als hätten wir Skripte → wir haben nur die Titel
 - ❌ Politische Bewertung von Trump/Midterms → Fakt: Auftritt bei einer Wahlkampfveranstaltung, Kritik daran zitieren, nicht selbst werten
@@ -53,7 +56,7 @@
 ## 1. Kalter Hook (~10 Sek., vor Jingle, keine Begrüßung)
 
 **Variante A (Dennis):**
-> „27. Oktober: Porsche meldet 1,74 Milliarden Euro operativen Gewinn, vor einem Jahr waren es 40 Millionen. 29. Oktober: VW schreibt 6,4 Milliarden auf Porsche ab und macht fast sechs Milliarden Verlust im Quartal. Willkommen in der Autoindustrie 2026.“
+> „27. Oktober: Porsche meldet 1,74 Milliarden Euro operativen Gewinn, vor einem Jahr waren es 40 Millionen. 29. Oktober: VW weist 6,4 Milliarden Abschreibung auf Porsche aus und macht fast sechs Milliarden Verlust im Quartal. Willkommen in der Autoindustrie 2026.“
 
 **Variante B (Martin):**
 > „Vor einem Jahr ging's um Porsche. Heute geht's um vier deutsche Werke ohne Zukunftsgarantie, einen Audi-Chef auf Trumps Wahlkampfbühne und ein BMW-Abfindungsportal, das nach zwölf Tagen dicht war, weil zu viele gehen wollten.“
@@ -118,7 +121,7 @@
 | **04** (Herbst 2025) „Die Automobilindustrie brennt“ | Krise bei Porsche, VW, Mercedes; VW-Cashflow-Lücke 2026 von 11–12 Mrd. €; Bundesbank-Basisszenario (Gesamtwirtschaft): **langsame Erholung ab 2026** | VW Jan–Sep: operatives Ergebnis **0,1 Mrd. €** (Vorjahr 5,4 Mrd.); in der Autoindustrie **keine** Erholung | ✔️ Krise richtig · ❌ Erholung 2026 falsch |
 | **08** (Q4 2025) | „Porsche zeigt, wie es geht: Elektrifizierung mit Premium-Anspruch“; weitere **China-Investitionen**; „VW: Entscheidungen über Werksschließungen stehen an“ | Porsche China **−33 %** (9M 2026), BEV-Anteil **gesunken**, VW schreibt 6,4 Mrd. ab; VW-Werksfrage **jetzt** auf dem Tisch | ❌ Porsche-These nicht gehalten · ✔️ VW-Werke richtig |
 | **21** „22 Mrd. Verlust“ (Frühjahr 2026) | Porsche ~3.900 Stellen bis 2029; Audi bis zu 7.500 bis 2029 | Porsche **+5.000** bis 2035 → ~8.900; Audi zieht **Schlechtwetterklausel** | ⬆️ verschärft |
-| **23** „Schock bei VW! Warum 50.000 Kündigungen erst der Anfang sind“ (Frühjahr 2026) | 35.000 → 50.000; 2024er-Deal: **keine Werksschließungen** | Zukunftsplan: **~50.000 weitere** weltweit; davon **12.000** zusätzlich bei der Kernmarke; vier Werke ohne Folgeproduktion | ✔️ „erst der Anfang“ war richtig |
+| **23** „Schock bei VW! Warum 50.000 Kündigungen erst der Anfang sind“ (Frühjahr 2026) | 35.000 → 50.000; 2024er-Deal: **keine Werksschließungen** | Zukunftsplan: **~50.000 weitere** weltweit; bei der Kernmarke **12.000** zusätzlich zu >35.000 (Verhältnis zu den 50.000 nicht belegt); vier Werke ohne Folgeproduktion | ✔️ „erst der Anfang“ war richtig |
 | **30** „Update Autoindustrie 2026“ (Mai) | „Rückzug aus Strategie, nicht aus Versagen“ | Rückzug geht weiter (Modelle −50 %, Überkapazität 500.000, Werk Osnabrück soll verkauft werden) | ✔️ These hält, Tempo höher |
 | **37** „… VW hunderttausend Jobs weg“ (Juli) | „Hunderttausend“ (damals unbestätigter Bericht) | ~50.000 DE + ~50.000 weltweit ≈ 100.000 *[eigene Rechnung]* | ✔️ |
 | **39** „5000 weitere Jobs weg bei Porsche“ | Porsche +5.000 bis 2035 | Standortsicherung bis 2035, 2,1 Mrd. € Investitionen | ➡️ stabil |
@@ -146,7 +149,7 @@
 - **VW:** Zusätzlich rund **1 Mrd. €** Wertberichtigungen auf Gesellschaften in **China** und Kosten für den angestrebten **Verkauf des Werks Osnabrück** *[Bericht, Dr. Web, aus VW-Mitteilung]*. Netto-Cashflow im Autogeschäft Jan–Sep **4,4 Mrd. €** (Vorjahr 1,8 Mrd.), Nettoliquidität **33 Mrd. €**: VW verbrennt also **kein** Geld. Beschäftigte Ende September: **648.100**.
 - **VW-Finanzvorstand Arno Antlitz:** „Das ist zu wenig, um weiter kraftvoll in unsere Zukunft zu investieren.“ E-Autos brächten derzeit weniger Marge als Verbrenner *[Bericht]*.
 - **VW-Markengruppen, operative Rendite Jan–Sep** (Vorjahr): Core 4,1 % (4,4 %), Progressive (u. a. Audi) 2,7 % (3,2 %), Sport Luxury (Porsche) 6,7 % (−1,0 %), Trucks 5,2 % (5,4 %) *[Bericht]*.
-¹ *Audi weist Q3 nicht einzeln aus: 9M 1.150 Mio. € minus H1 1.122 Mio. € = 28 Mio. € [eigene Rechnung aus Audi-Mitteilungen 27.07. und 30.10.]. Medien nennen teils 29 Mio. € (Rundung). Live: „knapp 30 Millionen“. Berichte über einen Audi-**Verlust** (Handelsblatt: −174 Mio. €) betreffen die **Marke** Audi ohne Lamborghini, Bentley, Ducati.*
+¹ *Audi weist Q3 nicht einzeln aus: 9M 1.150 Mio. € minus H1 1.122 Mio. € = 28 Mio. € [eigene Rechnung aus Audi-Mitteilungen 27.07. und 30.10.]. Live: „knapp 30 Millionen“. Berichte über einen Audi-**Verlust** (Handelsblatt: −174 Mio. €) betreffen die **Marke** Audi ohne Lamborghini, Bentley, Ducati.*
 
 - **Mercedes:** Der EBIT-Anstieg ist ein **Basiseffekt** (2025 hohe Sonderbelastungen für Stellenabbau und Rechtsstreitigkeiten). Free Cashflow Industrie nur **172 Mio. €** (Vorjahr 1,37 Mrd.). Gründe der Prognosesenkung: **China** und höhere Kosten im vierten Quartal. Lichtblick: **BEV-Rekord** mit 68.428 Pkw (+60,5 %).
 - **Audi:** weniger Autos, Preisdruck und schwächere Restwerte kosteten in neun Monaten **1,57 Mrd. €** operatives Ergebnis *[Bericht]*. Auslieferungen Q3: 314.905 (−19,7 %).
@@ -163,13 +166,13 @@
 | Porsche (Jan–Sep) | 178.532 (−16 %) | −33 % |
 
 - **Ohne China:** VW Q3 nur **−3,8 %**; rund **81 %** des Rückgangs kommen aus China *[Bericht, Dr. Web]*.
-- Der **chinesische Pkw-Markt** schrumpft laut CAM Jan–Sep um **21,7 %**; Gewinner sind chinesische Marken *[Bericht, CAM]*.
+- Der **Pkw-Einzelhandel in China** fiel Jan–Sep laut CPCA um **21,0 %** auf 13,4 Mio. *[Bericht, ChinaPulse]*. Der Herstellerverband CAAM meldet für den Pkw-Absatz **−6,1 %** (19,96 Mio.) bei Exporten von +70,6 % *[Bericht, SteelOrbis]*. Eine CAM-Auswertung nennt laut tuningblog −21,7 %, im Original nicht geprüft.
 - *[Einordnung]* China war jahrelang der Ort, an dem deutsche Premiumautos die Marge gemacht haben. Diese Marge fehlt, und Europa kann sie nicht ersetzen.
 
 ### 4.3 Treiber 2: Überkapazität in Europa *[belegt]*
 
 - VW beziffert die **Überkapazität in Europa auf 500.000 Fahrzeuge**.
-- Europa wächst nur leicht (Markt Jan–Sep +6,3 % laut CAM; VW-Auftragseingang Europa +4 %, E-Autos +39 %).
+- Europa wächst nur leicht (Markt Jan–Sep +6,3 % laut CAM-Auswertung *[Bericht, nicht im Original geprüft]*; VW-Auftragseingang Europa +4 %, E-Autos +39 %).
 - *[Einordnung]* Wachstum in Europa füllt nicht die Werke, die für China-Exporte und alte Volumenplanung gebaut wurden.
 
 ### 4.4 Treiber 3: Kosten und Margen *[belegt, EY H1 2026]*
@@ -205,7 +208,7 @@
 
 - Aufsichtsrat billigt den **„Zukunftsplan 2030“ einstimmig**.
 - **~50.000 weitere Stellen weltweit**, zusätzlich zu den ~50.000 in Deutschland → zusammen ≈ **100.000 bis 2030** *[eigene Rechnung]*.
-- Ziel **9 % operative Rendite** bis 2030; Einsparungen von rund **31 Mrd. €** *[Bericht, Dr. Web]*.
+- Ziel **9 % operative Rendite** bis 2030, das entspricht laut VW einem **operativen Ergebnis von rund 31 Mrd. €** *[VW Future Plan]*.
 - **Modellpalette −50 %** bis 2035; **135 Mrd. €** Sachinvestitionen + F&E 2027–2031.
 - **Überkapazität Europa: 500.000 Fahrzeuge.** Emden, Zwickau, Hannover, Neckarsulm ohne wettbewerbsfähige Folgebelegung, wenn die Programme 2031–2034 auslaufen. **Konzept bis Ende Juni 2027.**
 - VW hält an der **Beschäftigungssicherung bis Ende 2030** fest *[Bericht, dpa]*.
@@ -224,7 +227,7 @@
 - Über **15.000 Beschäftigte**, dazu rund **1.000 Zulieferunternehmen**; bei einer Schließung rechnen Experten mit rund **50.000** betroffenen Arbeitsplätzen in der Region *[Bericht, autohaus.de, Expertenschätzung]*.
 - Laut internem Papier: Produktionsende **2034**, **A8-Nachfolger nach Leipzig** *[Bericht, WiWo]*.
 - **Beschäftigungssicherung bis Ende 2033** aus der Zukunftsvereinbarung *[Bericht, Betriebsrat]*.
-- **09.10.2026:** Audi zieht die **„Schlechtwetterklausel“** (Zukunftspakt 2019): Geschäftsführung und Betriebsrat müssen über Sparmaßnahmen verhandeln.
+- **Anfang Oktober 2026:** Audi zieht die **„Schlechtwetterklausel“** (Zukunftspakt 2019): Geschäftsführung und Betriebsrat müssen über Sparmaßnahmen verhandeln. Der Betriebsrat prüft die Voraussetzungen *[Bericht, autohaus.de 09.10.]*.
 - **30.10.2026:** Audi verdient im Q3 operativ nur noch **rund 28 Mio. €** und senkt die Prognose (Kap. 4.1). Der Druck auf Neckarsulm steigt.
 - Laut ZDF kämpft Neckarsulm mit **geringer Auslastung**. Kritiker befürchten: Wenn in Bratislava künftig weniger SUVs für die USA gebaut werden (heute knapp 30.000 Q7/Q8 pro Jahr), könnten Modelle aus Deutschland dorthin abwandern *[Bericht, ZDF]*.
 
@@ -232,7 +235,7 @@
 
 ### 5.4 Für Porsche (Zuffenhausen/Weissach) *[belegt]*
 
-- **+5.000 Stellen bis 2035** (zusätzlich zu ~3.900 bis 2029), sozialverträglich; **Standortsicherung bis Ende 2035**; **2,1 Mrd. €** Investitionen.
+- **+5.000 Stellen bis 2035** (zusätzlich zu ~3.900 bis 2029), sozialverträglich; **Standortsicherung bis 2035**; **2,1 Mrd. €** Investitionen.
 - Porsche ist **nicht** unter den vier Werken ohne Folgebelegung, schrumpft aber **bewusst**: weniger Volumen, mehr Marge (Kap. 1).
 
 ### 5.5 Für die Region *[Bericht]*
@@ -255,11 +258,11 @@
 
 - **Dez. 2024:** „keine Werksschließungen“ als Kern der VW-Einigung (Folge 23).
 - **Sept. 2026:** schriftlich im Aufsichtsratsbeschluss: vier deutsche Werke ohne Zukunftsgarantie; dazu soll Osnabrück verkauft werden.
-- Zeitleiste VW-Stellen: 35.000 (Dez. 2024) → ~50.000 DE (März 2026) → **+~50.000 weltweit** (03.09.2026) → davon **+12.000 bei der Kernmarke** konkretisiert (23.10.2026).
+- Zeitleiste VW-Stellen: 35.000 (Dez. 2024) → ~50.000 DE (März 2026) → **+~50.000 weltweit** (03.09.2026) → **+12.000 bei der Kernmarke** zusätzlich zu >35.000 (23.10.2026; Verhältnis zu den 50.000 nicht belegt).
 
 ### 6.2 Wendung 2: Die Leute gehen selbst *[Bericht / belegt]*
 
-- **BMW:** Freiwilliges Abfindungsprogramm, Start 08.10., nach rund **zwölf Tagen** vorzeitig geschlossen (~20.10.); **mehrere Tausend** Interessierte; Entscheidungen bis Mitte November; doppelte Freiwilligkeit. **Nicht von BMW bestätigt:** ~8.000 Stellen (dpa), bis zu 650.000 € plus vergünstigte Autos (Handelsblatt).
+- **BMW:** Freiwilliges Abfindungsprogramm, Start 08.10., nach rund **zwölf Tagen** vorzeitig geschlossen (~20.10.); **mehrere Tausend** Interessierte; Entscheidungen bis Mitte November; doppelte Freiwilligkeit. **Nicht von BMW bestätigt:** ~8.000 Stellen (dpa), in Einzelfällen mehr als 650.000 € aus Industriekreisen (elektroauto-news), vergünstigte Autos (Handelsblatt).
 - **Mercedes:** Erste Runde laut Handelsblatt rund **5.500** Annahmen von ~40.000 Angeschriebenen; **neue Runde ab Dezember 2026** jetzt offiziell bestätigt.
 - *[Einordnung]* 2024 hieß der Konflikt „Kündigungen ja oder nein“. 2026 läuft der Abbau über **freiwilliges Gehen**, und die Programme sind überlaufen.
 
@@ -358,7 +361,7 @@
 **Martin — Unternehmersicht (sein Block):**
 - Was hilft einem Zulieferer im Raum Heilbronn konkret? Abschreibungen ja, wenn er investiert; Strompreis nur, wenn er energieintensiv ist.
 - Was Unternehmer am meisten brauchen: **Planbarkeit**. Lieber eine Regel, die zehn Jahre hält, als drei, die sich jedes Jahr ändern.
-- Frage an Dennis: „Ist es nicht auch Aufgabe der Firmen, sich selbst zu helfen?“ → Dennis: Genau das passiert im Zukunftsplan: Modelle halbieren, Kosten senken, rund 31 Mrd. € sparen.
+- Frage an Dennis: „Ist es nicht auch Aufgabe der Firmen, sich selbst zu helfen?“ → Dennis: Genau das passiert im Zukunftsplan: Modelle halbieren, Überkapazität abbauen, Kosten senken.
 
 > 💡 *[Einordnung]* Die Politik kann Rahmen setzen: Kosten, Planbarkeit, Handel. Ob die Autos gekauft werden, entscheidet sich bei den Produkten, und zwar in Peking, Shanghai und Atlanta genauso wie in Stuttgart.
 
@@ -402,8 +405,8 @@
 | „Porsche macht Gewinn, warum schreibt VW dann ab?“ | Der Firmenwert hängt an den **erwarteten künftigen** Gewinnen. Die sind gesunken. Kein Geldabfluss, nur Bilanzwert. |
 | „Ist VW pleite?“ | Nein: Netto-Cashflow Autogeschäft 4,4 Mrd. € (Jan–Sep), Nettoliquidität 33 Mrd. €. Der Verlust ist vor allem buchhalterisch. |
 | „Schließt VW jetzt Werke?“ | **Nicht beschlossen.** Keine gesicherte Folgeproduktion 2031–2034, Konzept bis Juni 2027. Osnabrück soll verkauft werden. |
-| „Sind es jetzt 100.000 bei VW?“ | ~50.000 DE (bestehend) + ~50.000 weltweit (neu): **unsere Addition**, VW nennt keine Gesamtzahl. Konkret bestätigt: +12.000 bei der Kernmarke. |
-| „Stimmt das mit 650.000 € bei BMW?“ | Laut Handelsblatt in Einzelfällen, internes Dokument; BMW nennt keine Beträge. |
+| „Sind es jetzt 100.000 bei VW?“ | ~50.000 DE (bestehend) + ~50.000 weltweit (neu): **unsere Addition**, VW nennt keine Gesamtzahl. Konkret bestätigt: +12.000 bei der Kernmarke, zusätzlich zu >35.000. |
+| „Stimmt das mit 650.000 € bei BMW?“ | Laut Berichten in Einzelfällen mehr als das, aus Industriekreisen; BMW nennt keine Beträge. |
 | „Darf ein Audi-Chef auf Trumps Bühne?“ | Wir zitieren die Kritik und Döllners Verteidigung, werten nicht parteipolitisch. Fakt: Konzernregeln sehen laut Berichten Zurückhaltung vor Wahlen vor. |
 | „Bringt die Steuersenkung was?“ | Beschlossen ab 2028 (15 → 10 % bis 2032). Hilft bei Gewinnen und Standortwahl, aber nicht kurzfristig und nicht dort, wo Verlust geschrieben wird. Vorziehen ist umstritten, weil die Gegenfinanzierung fehlt. |
 | „Ist das Verbrenner-Aus jetzt weg?“ | Nein, geltendes Recht ist 100 % ab 2035. Vorschläge liegen bei 90 % (Kommission, Merz/Macron) bzw. 95/87,5 % (Parlamentsausschüsse). Entscheidung frühestens nach Plenum (Dez.) und Rat. |
@@ -443,7 +446,11 @@
 | „Marke VW −19,3 %, Porsche −15 %“ | **nicht verifiziert**; Audi −19,7 % belegt; Porsche 9M −16 % belegt |
 | Mercedes: „Prognose −2 bis −7,5 % statt Vorjahresniveau“ | **nicht belegt**; Absatzprognose „leicht unter Vorjahr“ (unverändert); gesenkt wurden am 27.10. Pkw-Rendite (2–3 %) und Konzern-EBIT (Vorjahresniveau) |
 | BMW: „8.000 Stellen bis Ende 2027“, „über 650.000 €“ | weiterhin nur **Medienberichte** |
-| „China schrumpft −21,7 %“ | Das ist der **chinesische Pkw-Markt** (CAM), nicht die Hersteller |
+| „China schrumpft −21,7 %“ | Nur Bericht über eine CAM-Auswertung, Original nicht geprüft. Belegt: Einzelhandel **−21,0 %** (CPCA), Pkw-Absatz **−6,1 %** (CAAM) |
+| (eigene Fassung) VW „Einsparungen von rund 31 Mrd. €“ | Laut VW entspricht das 9-%-Ziel einem **operativen Ergebnis** von rund 31 Mrd. €; kein Sparprogramm |
+| (eigene Fassung) „12.000 davon bei der Kernmarke“ | Belegt ist nur: zusätzlich zu >35.000. Dass sie Teil der 50.000 sind, steht in keiner Quelle |
+| (eigene Fassung) „Medien nennen 29 Mio. €, Rundung“ (Audi) | Kein Beleg gefunden, gestrichen |
+| (eigene Fassung) „09.10.“ Schlechtwetterklausel | Das ist das Datum des Berichts; ein Bericht vom 08.10. meldet sie schon → „Anfang Oktober“ |
 | Porsche: „Zusätzlich wird über weitere Tausende diskutiert“ | **nicht belegt** |
 | (eigene Fassung 31.10.) Audi Q3 „29 Mio. €“, alte Prognose „5–7 bzw. 6–8 %“ | Aus Audi-Mitteilungen errechnet **rund 28 Mio. €**; letzte Prognose vor der Senkung (Juli) **5–7 %** |
 | (eigene Fassung 31.10.) Porsche Netto-Cashflow 2,50 Mrd. € ohne Einordnung | enthält **984 Mio. €** Zufluss aus dem Bugatti-Rimac-Verkauf |
@@ -523,7 +530,11 @@
 - Dr. Web, VW-Auslieferungen Q3 2026: https://www.drweb.de/vw-auslieferungen-q3-2026-china/
 - bmwblog, BMW Q3 2026: https://www.bmwblog.com/2026/10/13/bmw-global-sales-q3-2026/
 - EY, Automotive-Bilanzen H1 2026: https://www.ey.com/de_de/newsroom/2026/09/ey-analyse-automotive-bilanzen-q2-2026
-- CAM-Analyse Jan–Sep 2026 via tuningblog.eu: https://www.tuningblog.eu/kredit-finanzierung-leasing-co/autohersteller-absatztrends-2026-809170
+- ChinaPulse, Pkw-Einzelhandel laut CPCA (12.10.2026): https://www.chinapulse.com/data-news/2026/10/12/decline-in-chinas-passenger-vehicle-retail-sales-persists/
+- SteelOrbis, Pkw-Absatz laut CAAM: https://www.steelorbis.com/steel-news/latest-news/caam-passenger-vehicle-sales-in-china-down-61-percent-in-jan-sept-2026-1484076.htm
+- VW Future Plan: https://www.volkswagen-group.com/en/future-plan-the-next-phase-of-transformation-20510
+- elektroauto-news, BMW-Abfindungsprogramm: https://www.elektroauto-news.net/news/viele-wollen-weg-bmw-beendet-abfindungsprogramm-vorzeitig
+- CAM-Analyse Jan–Sep 2026 via tuningblog.eu (Original nicht geprüft): https://www.tuningblog.eu/kredit-finanzierung-leasing-co/autohersteller-absatztrends-2026-809170
 - Handelsblatt, „Tausende wollen BMW verlassen“: https://www.handelsblatt.com/unternehmen/industrie/autobauer-tausende-wollen-bmw-verlassen-abfindungsprogramm-geschlossen/100263648.html
 - finanzen.net, Trump kündigt 25 % auf EU-Autos an (02.05.2026): https://www.finanzen.net/nachricht/aktien/zoelle-auf-us-importe-aktien-von-vw-mercedes-bmw-co-in-alarmstimmung-trumps-neuer-25-zollhammer-trifft-so-reagiert-europa-00-15652764
 

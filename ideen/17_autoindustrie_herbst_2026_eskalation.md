@@ -1,33 +1,35 @@
 # 🎙️ Ein Jahr nach dem Porsche-Schock — Moderationsleitfaden
 
-**Der Akademiker und der Hauptschüler** · Dennis & Martin · ca. 55 Min.
+**Der Akademiker und der Hauptschüler** · Dennis & Martin · ca. 60 Min.
 **Arbeitstitel:** Ein Jahr nach dem Porsche-Schock: Hatten wir recht? Was der VW-Zukunftsplan für die Region Stuttgart bedeutet.
-**Stand:** 31. Oktober 2026 (inkl. Quartalszahlen Porsche 27.10., Mercedes 28.10., VW 29.10., Audi 30.10.; vor Aufnahme Abschnitt 9 „Status-Check“ abarbeiten)
+**Stand:** 1. November 2026 (inkl. Quartalszahlen Porsche 27.10., Mercedes 28.10., VW 29.10., Audi 30.10. und Kapitel „Gegenmaßnahmen“; vor Aufnahme Abschnitt 10 „Status-Check“ abarbeiten)
 **Serie:** Fortsetzung von Folge 04, 08, 21, 23, 30, 37, 39
 
 ---
 
 ## 0. Auf einen Blick (Spickzettel)
 
-**Roter Faden:** *Am 24. Oktober 2025 meldete Porsche fast eine Milliarde Euro Quartalsverlust, und wir haben in Folge 04 gesagt: Die Autoindustrie brennt. Ein Jahr später, in der Woche der neuen Quartalszahlen, ziehen wir Bilanz.* Die Woche liefert die perfekte Pointe: **Porsche meldet am 27.10. einen Gewinnsprung, zwei Tage später schreibt der Mutterkonzern VW 6,4 Mrd. Euro auf Porsche ab und rutscht in den Verlust.** Dann drei Schritte: **Rückblick** (hatten wir „recht“?) → **Treiber** → **Zukunftsplan 2030** (VW, Audi Neckarsulm, Porsche, Region Stuttgart) → **drei neue Wendungen**.
+**Roter Faden:** *Am 24. Oktober 2025 meldete Porsche fast eine Milliarde Euro Quartalsverlust, und wir haben in Folge 04 gesagt: Die Autoindustrie brennt. Ein Jahr später, in der Woche der neuen Quartalszahlen, ziehen wir Bilanz.* Die Woche liefert die perfekte Pointe: **Porsche meldet am 27.10. einen Gewinnsprung, zwei Tage später schreibt der Mutterkonzern VW 6,4 Mrd. Euro auf Porsche ab und rutscht in den Verlust.** Dann: **Rückblick** (hatten wir „recht“?) → **Treiber** → **Zukunftsplan 2030** (VW, Audi Neckarsulm, Porsche, Region Stuttgart) → **drei neue Wendungen** → **Gegenmaßnahmen** (was läuft, was diskutiert wird, was helfen könnte).
 
 **Erzählbogen:**
 1. Hook → „Porsche verdient wieder, und VW schreibt trotzdem Milliarden auf Porsche ab.“
 2. Kap. 1 → **Ein Jahr später: Hatten wir recht?** Porsche damals vs. heute, Eigen-Faktencheck mit Treffern **und** Fehlern
-3. Kap. 2 → **Die Zahlen der Woche und die Treiber:** VW, Audi, Mercedes; China, Überkapazität, Kosten, Zölle, E-Mix
+3. Kap. 2 → **Die Zahlen der Woche und die Treiber:** VW, Audi, Mercedes; China, Überkapazität, Kosten, Zölle, E-Mix, BYD in Ungarn
 4. Kap. 3 → ⭐ **Der Zukunftsplan 2030:** VW-Konzern, Tarifkonflikt, Audi Neckarsulm, Porsche, Region
 5. Kap. 4 → **Drei Wendungen:** Werks-Tabu gebrochen · Die Leute gehen selbst · Abfindung hier, Werk dort (inkl. Trump-Auftritt des Audi-Chefs)
-6. Outro → Unser Urteil „in Anführungszeichen“ und was wir in einem Jahr prüfen
+6. Kap. 5 → **Was tun? Die Gegenmaßnahmen:** was schon läuft, was kontrovers ist, passt die Medizin zur Krankheit?
+7. Outro → Unser Urteil „in Anführungszeichen“ und was wir in einem Jahr prüfen
 
 **Rollen:**
-- **Dennis** = Zahlen, Eigen-Faktencheck, Treiber-Analyse; erklärt die Porsche-Abschreibung; sagt auch, wo wir falsch lagen
-- **Martin** = Region Stuttgart/Heilbronn, Unternehmer- und Recruiting-Sicht; Döllner-Auftritt aus Unternehmersicht
+- **Dennis** = Zahlen, Eigen-Faktencheck, Treiber-Analyse; erklärt die Porsche-Abschreibung; sagt auch, wo wir falsch lagen; ordnet die Gegenmaßnahmen den Ursachen zu
+- **Martin** = Region Stuttgart/Heilbronn, Unternehmer- und Recruiting-Sicht; Döllner-Auftritt aus Unternehmersicht; was Zulieferern wirklich hilft (Planbarkeit)
 
 **Muss-Sätze:**
 - „Wir hatten recht, dass es schlimmer wird. Aber nicht überall, und nicht so, wie wir dachten.“
 - „Porsche verdient wieder. Aber VW glaubt nicht mehr, dass Porsche so viel verdienen wird wie früher.“
 - „Aus 35.000 wurden 50.000, aus 50.000 werden rund 100.000.“
 - „Keine Werksschließung ist beschlossen. Aber für vier Werke gibt es keine Zukunftsgarantie mehr.“
+- „Die Maßnahmen setzen bei Kosten und Steuern an. Das größte Loch, die fehlende Nachfrage in China, kann keine deutsche Reform stopfen.“
 - „Keine Abfindungsberatung. Holt euch Rat, bevor ihr unterschreibt.“
 
 **Tabu:**
@@ -38,6 +40,11 @@
 - ❌ Selbstlob ohne die Stellen, an denen wir danebenlagen
 - ❌ Inhalte von Folge 37 und 39 zitieren, als hätten wir Skripte → wir haben nur die Titel
 - ❌ Politische Bewertung von Trump/Midterms → Fakt: Auftritt bei einer Wahlkampfveranstaltung, Kritik daran zitieren, nicht selbst werten
+- ❌ „Investitionen ziehen den Gewinn ins Minus“ → ins Minus ziehen vor allem **Sondereffekte** (Abschreibungen, Umbaukosten); Investitionen werden über Jahre abgeschrieben. Und: Porsche, Mercedes und der Audi-Konzern sind im **Plus**
+- ❌ „Audi baut in Georgia, um aus Mexiko zu importieren“ → umgekehrt: Audi will in den USA bauen, um **nicht** mehr aus Europa (Q7/Q8 aus Bratislava) und Mexiko (Q5) importieren zu müssen
+- ❌ „Der Absatz bricht überall ein“ → vor allem in **China**; in Europa leicht im Plus
+- ❌ „Die Regierung will die Körperschaftsteuer senken“ → die Senkung ab 2028 ist **beschlossen**; diskutiert wird das **Vorziehen**
+- ❌ Parteipolitische Bewertung der Gegenmaßnahmen → Pro und Contra nennen, sagen, wer was fordert
 
 **Belastbarkeit live sagen:** *[belegt]* = Konzernmitteilung/Aufsichtsrat/Studie · *[Bericht]* = Medienbericht · *[Einordnung]* = unsere Lesart · *[eigene Rechnung]*
 
@@ -68,7 +75,7 @@
 
 ---
 
-## 3. Kapitel 1 — „Ein Jahr später: Hatten wir recht?“ (~11 Min.)
+## 3. Kapitel 1 — „Ein Jahr später: Hatten wir recht?“ (~9 Min.)
 
 ### 3.1 Damals: der Porsche-Schock *[belegt, Folge 04 / Handelsblatt 24.10.2025]*
 
@@ -85,12 +92,13 @@
 | Operatives Ergebnis | 0,04 Mrd. € | **1,74 Mrd. €** |
 | Operative Umsatzrendite | 0,2 % | **6,9 %** |
 | Sonderbelastungen Neuausrichtung | ca. 2,7 Mrd. € | ca. **0,5 Mrd. €** |
-| Netto-Cashflow Automobile | 1,34 Mrd. € | **2,50 Mrd. €** |
+| Netto-Cashflow Automobile | 1,34 Mrd. € | **2,50 Mrd. €** (inkl. Verkauf Bugatti Rimac, siehe unten) |
 | Auslieferungen | 212.509 | **178.532** (−16 %) |
 | BEV-Anteil | 23,1 % | **21,7 %** |
 
 - **Prognose 2026 bestätigt:** Umsatz 35–36 Mrd. €, operative Rendite 5,5–7,5 %.
 - US-Zölle kosteten Porsche im **dritten Quartal** rund **200 Mio. €** Cashflow *[belegt]*.
+- **Cashflow mit Sondereffekt:** Im September verkaufte Porsche seine Anteile an Bugatti Rimac und der Rimac Group. Zufluss **984 Mio. €**, laut Porsche „im Wesentlichen“ im Netto-Cashflow Automobile; der Buchgewinn von **593 Mio. €** steckt im **Finanzergebnis**, nicht im operativen Ergebnis *[belegt, Porsche-Mitteilung]*. → Den Cashflow-Anstieg nicht als reine Geschäftserholung verkaufen.
 - **Ehrlich einordnen:** Der Sprung kommt vor allem daher, dass der **Umbau viel weniger kostet** als im Vorjahr. Ohne Umbaukosten wäre das operative Ergebnis laut einer Auswertung um rund **18 % gesunken** *[Bericht, Dr. Web]*. Im **dritten Quartal allein** lag die Rendite bei rund **4,8 %** (387 Mio. €) *[Bericht, Investing.com]*.
 - CEO ist inzwischen **Dr. Michael Leiters**: „Wir setzen unsere strategische Neuausrichtung konsequent und mit hoher Geschwindigkeit um.“
 
@@ -131,13 +139,15 @@
 | Q3 2026 | Umsatz | Ergebnis | Prognose 2026 |
 |---|---|---|---|
 | **VW-Konzern** | 75,3 Mrd. € (−6 %) | operativ **−5,9 Mrd. €**; nach Steuern −5,8 Mrd. €; vor Sondereffekten Jan–Sep 8,8 Mrd. € (3,8 %) | operative Rendite **höchstens 1 %** (am 18.09. gesenkt von 4,0–5,5 %), Umsatz rund 315 Mrd. € |
-| **Audi** | 12,9 Mrd. € (−18,5 %) | operativ **29 Mio. €** (Vorjahr 468 Mio.); nach Steuern 95 Mio. € (−87 %) | Rendite **3–5 %** (gesenkt; zuvor höher, Angaben 5–7 bzw. 6–8 %) *[Bericht]* |
+| **Audi** | 12,9 Mrd. € (−18,5 %) | operativ **rund 28 Mio. €** (Vorjahr 468 Mio.)¹; nach Steuern 95 Mio. € (−87 %) | Rendite **3–5 %** (Juli: 5–7 %), Umsatz 55–59 Mrd. € (Juli: 58–63 Mrd.) *[belegt]* |
 | **Mercedes-Benz** | 30,7 Mrd. € (−4,5 %) | EBIT **1,77 Mrd. €** (Vorjahr 0,75 Mrd.); bereinigt 1,78 Mrd. € (−15 %); Pkw-Rendite bereinigt **2,5 %** (Vorjahr 4,8 %) | Pkw-Rendite **2–3 %** (statt 3–5 %), Konzern-EBIT **auf Vorjahresniveau** (statt deutlich darüber) |
 | **Porsche** (Jan–Sep) | 25,28 Mrd. € (−5,9 %) | operativ **1,74 Mrd. €**, 6,9 % | bestätigt: 5,5–7,5 % |
 
 - **VW:** Zusätzlich rund **1 Mrd. €** Wertberichtigungen auf Gesellschaften in **China** und Kosten für den angestrebten **Verkauf des Werks Osnabrück** *[Bericht, Dr. Web, aus VW-Mitteilung]*. Netto-Cashflow im Autogeschäft Jan–Sep **4,4 Mrd. €** (Vorjahr 1,8 Mrd.), Nettoliquidität **33 Mrd. €**: VW verbrennt also **kein** Geld. Beschäftigte Ende September: **648.100**.
 - **VW-Finanzvorstand Arno Antlitz:** „Das ist zu wenig, um weiter kraftvoll in unsere Zukunft zu investieren.“ E-Autos brächten derzeit weniger Marge als Verbrenner *[Bericht]*.
 - **VW-Markengruppen, operative Rendite Jan–Sep** (Vorjahr): Core 4,1 % (4,4 %), Progressive (u. a. Audi) 2,7 % (3,2 %), Sport Luxury (Porsche) 6,7 % (−1,0 %), Trucks 5,2 % (5,4 %) *[Bericht]*.
+¹ *Audi weist Q3 nicht einzeln aus: 9M 1.150 Mio. € minus H1 1.122 Mio. € = 28 Mio. € [eigene Rechnung aus Audi-Mitteilungen 27.07. und 30.10.]. Medien nennen teils 29 Mio. € (Rundung). Live: „knapp 30 Millionen“. Berichte über einen Audi-**Verlust** (Handelsblatt: −174 Mio. €) betreffen die **Marke** Audi ohne Lamborghini, Bentley, Ducati.*
+
 - **Mercedes:** Der EBIT-Anstieg ist ein **Basiseffekt** (2025 hohe Sonderbelastungen für Stellenabbau und Rechtsstreitigkeiten). Free Cashflow Industrie nur **172 Mio. €** (Vorjahr 1,37 Mrd.). Gründe der Prognosesenkung: **China** und höhere Kosten im vierten Quartal. Lichtblick: **BEV-Rekord** mit 68.428 Pkw (+60,5 %).
 - **Audi:** weniger Autos, Preisdruck und schwächere Restwerte kosteten in neun Monaten **1,57 Mrd. €** operatives Ergebnis *[Bericht]*. Auslieferungen Q3: 314.905 (−19,7 %).
 
@@ -177,6 +187,14 @@
 - Mercedes BEV-Rekord (+60,5 %), VW-E-Auto-Bestellungen Europa +39 %.
 - Aber: Porsche-BEV-Anteil gesunken; laut Antlitz bringen E-Autos weniger Marge als Verbrenner.
 
+### 4.7 Treiber 6: China kommt nach Europa *[Bericht]*
+
+- **BYD** baut in **Szeged (Ungarn)**: Testproduktion seit Ende Januar 2026, Serienfertigung laut BYD-Vizepräsidentin Stella Li im **4. Quartal 2026** (zuvor für Ende 2025 geplant). Ausgelegt auf rund **200.000** Autos pro Jahr, zuerst der Kleinwagen **Dolphin Surf**. Ein offizieller Serienstart ist bis 01.11. nicht gemeldet.
+- Hintergrund: Seit Ende 2024 erhebt die EU Ausgleichszölle auf in China gebaute E-Autos. Wer in der EU baut, umgeht sie.
+- *[Einordnung]* Doppelter Druck: In China verlieren die Deutschen Marktanteile an chinesische Marken, und in Europa kommt die chinesische Konkurrenz jetzt mit eigenen Werken, mitten in die Überkapazität.
+
+**Dennis — das Bild für die Sendung** *[Einordnung, als unsere Lesart kennzeichnen]*: „Jahrelang hat China die Party bezahlt: Die hohen Margen dort haben teure Standorte und zu viele Werke hier mitgetragen. Jetzt zahlt keiner mehr, und gleichzeitig kommen die Chinesen zu uns.“
+
 **Martin-Frage:** „Welcher Treiber ist hausgemacht und welcher nicht?“ → Dennis: China-Wettbewerb und Zölle kommen von außen, Überkapazität und Kosten sind hausgemacht, E-Mix ist beides.
 
 ---
@@ -207,7 +225,7 @@
 - Laut internem Papier: Produktionsende **2034**, **A8-Nachfolger nach Leipzig** *[Bericht, WiWo]*.
 - **Beschäftigungssicherung bis Ende 2033** aus der Zukunftsvereinbarung *[Bericht, Betriebsrat]*.
 - **09.10.2026:** Audi zieht die **„Schlechtwetterklausel“** (Zukunftspakt 2019): Geschäftsführung und Betriebsrat müssen über Sparmaßnahmen verhandeln.
-- **30.10.2026:** Audi verdient im Q3 operativ nur noch **29 Mio. €** und senkt die Prognose (Kap. 4.1). Der Druck auf Neckarsulm steigt.
+- **30.10.2026:** Audi verdient im Q3 operativ nur noch **rund 28 Mio. €** und senkt die Prognose (Kap. 4.1). Der Druck auf Neckarsulm steigt.
 - Laut ZDF kämpft Neckarsulm mit **geringer Auslastung**. Kritiker befürchten: Wenn in Bratislava künftig weniger SUVs für die USA gebaut werden (heute knapp 30.000 Q7/Q8 pro Jahr), könnten Modelle aus Deutschland dorthin abwandern *[Bericht, ZDF]*.
 
 > 💡 *[Einordnung]* **Beschäftigungssicherung bis Ende 2033, Produktionsende laut Papier 2034.** Die Daten liegen direkt hintereinander. Das ist kein Beweis für einen Plan, aber genau diese Lücke wird in Neckarsulm gesehen.
@@ -231,7 +249,7 @@
 
 ---
 
-## 6. Kapitel 4 — „Drei neue Wendungen“ (~11 Min.)
+## 6. Kapitel 4 — „Drei neue Wendungen“ (~9 Min.)
 
 ### 6.1 Wendung 1: Das Werks-Tabu ist gebrochen *[belegt + Einordnung]*
 
@@ -256,6 +274,7 @@
 **Das Werk:**
 - Samstag, **24.10.2026**: Trump kündigt bei einer **Wahlkampfveranstaltung in Perry, Georgia**, zehn Tage vor den Midterms (03.11.), das **erste Audi-Werk in den USA** an. Audi-Chef **Gernot Döllner** tritt auf die Bühne und bedankt sich.
 - Standort **Macon, Georgia**; rund **4 Mrd. US-$** (ca. 3,6 Mrd. €); bis zu **200.000 SUVs/Jahr** (Q7, Q8, Q9); ca. **4.500 Jobs**; Baubeginn 2027, Produktion Anfang der 2030er.
+- **Warum:** Audi hat bisher **kein eigenes Werk in den USA** und importiert alles: Q7/Q8 u. a. aus Bratislava (15 % EU-Zoll), den Q5 aus **San José Chiapa (Mexiko)**, der 2025 von den US-Zöllen besonders hart getroffen wurde; die Q5-Exporte in die USA standen im Frühjahr 2025 zeitweise still *[Bericht, MarkLines/Fortune]*. Das Werk soll Importe **ersetzen**.
 - **Noch nicht beschlossen:** Zustimmung von VW-Aufsichtsrat und Gremien steht aus. **Zollvorteile offen**: Ob es Zusagen gibt und ob sie nur für Audi oder auch andere VW-Marken gelten, ist unklar.
 
 **Die Kontroverse:**
@@ -272,7 +291,80 @@
 
 ---
 
-## 7. Outro (~4 Min.)
+## 7. Kapitel 5 — „Was tun? Die Gegenmaßnahmen“ (~9 Min.)
+
+**Haltung des Kapitels:** Nicht nur draufhauen. Wir schauen, was schon läuft, was kontrovers diskutiert wird und was helfen **könnte**, wenn es richtig gemacht wird. Wir nennen, wer was fordert, und werten **nicht parteipolitisch**.
+
+**Dennis — Überleitung:**
+> „Wir haben jetzt die ganze Folge lang erklärt, was schiefläuft. Fairerweise müssen wir auch fragen: Was wird eigentlich dagegen getan? Und hilft das?“
+
+### 7.1 Was schon läuft *[belegt]*
+
+| Maßnahme | Was genau | Seit / Stand | Hilft bei … |
+|---|---|---|---|
+| **„Investitionsbooster“** (Gesetz vom Juli 2025) | Degressive Abschreibung **30 %** pro Jahr für Ausrüstung, angeschafft 2025 bis 2027; Sonderabschreibung **75 %** im ersten Jahr für neue betriebliche E-Autos | in Kraft seit Juli 2025 (BGBl. 2025 I Nr. 161) | Investitionen in Deutschland, E-Firmenwagen |
+| **Körperschaftsteuer sinkt** | von 15 % auf **10 %**, ein Prozentpunkt pro Jahr: 2028 14 %, … 2032 10 % | **beschlossen** im selben Gesetz, wirkt **ab 2028** | Gewinne, Standortattraktivität |
+| **E-Auto-Prämie** | bis zu **6.000 €**, gestaffelt nach Einkommen, Plug-in-Hybride weniger; rückwirkend für Zulassungen ab 01.01.2026 | Anträge seit **19.05.2026**; über 100.000 Anträge bis August *[Bericht]* | Nachfrage nach E-Autos im Inland |
+| **Kfz-Steuerbefreiung für E-Autos** | um fünf Jahre verlängert *[Bericht]* | | E-Auto-Nachfrage |
+| **Industriestrompreis** | **5 Cent/kWh** für die Hälfte des Verbrauchs, rund 91 energieintensive Branchen (Chemie, Stahl, Glas, Halbleiter …), 2026–2028, bis zu 3,8 Mrd. € | EU-Genehmigung **16.04.2026**; Geld fließt erst **2027** rückwirkend für 2026 | Energiekosten, eher Vorprodukte (Stahl, Chemie) als Autobauer selbst |
+| **Werkzeuge in den Firmen** | Transfergesellschaften, freiwillige Abfindungen, Beschäftigungssicherung (VW bis 2030, Audi bis 2033, Porsche bis 2035) | laufend (Kap. 3 und 4) | sozialverträglicher Abbau |
+
+> ⚠️ Live-Formulierung Körperschaftsteuer: **„Die Senkung ist schon beschlossen, sie greift aber erst ab 2028. Diskutiert wird, sie vorzuziehen.“** Nicht sagen: „Die Regierung will die Körperschaftsteuer senken.“
+
+### 7.2 Was kontrovers diskutiert wird *[Bericht + Einordnung]*
+
+**1. Körperschaftsteuer-Senkung vorziehen**
+- **Wer will was:** CSU-Chef Söder fordert, sie rückwirkend ab 01.01.2026 vorzuziehen; Kanzler Merz ist dafür, „wenn es finanzielle Spielräume gibt“; die Wirtschaftsministerin unterstützt es. Finanzminister Klingbeil nennt das eine „knackige Überschrift“ ohne Gegenfinanzierung, ist aber „bereit für weitere Diskussionen“. **Beschlossen ist nichts.**
+- **Pro:** Signal an Investoren, Deutschland liegt bei der Unternehmensbesteuerung im internationalen Vergleich hoch.
+- **Contra:** Wirkt nur, wo Gewinn anfällt (VW nach neun Monaten nach Steuern **−2,7 Mrd. €**). Kostet zuerst Geld: Laut einem IW-Szenario entstehen in den ersten Jahren Mindereinnahmen, erst ab etwa dem fünften Jahr verringert sich die Lücke spürbar.
+- **Richtig angewendet heißt:** *[Einordnung]* klar finanziert und verlässlich, damit Firmen damit planen können.
+
+**2. CO2-Flottenziele und „Verbrenner-Aus“ 2035 lockern**
+- **Geltendes Recht:** Neuwagen ab 2035 **100 %** weniger CO2 als 2021.
+- **Vorschläge:**
+  - EU-Kommission (Dez. 2025): **90 %**, Rest ausgleichen.
+  - Merz und Macron (16.10.2026): **90 % ohne Ausgleich**.
+  - Industrie- und Verkehrsausschuss des EU-Parlaments (22.10.2026): **95 %**, mit klimafreundlichem Stahl aus Europa bis zu **87,5 %**.
+- **Weiter:** Umweltausschuss Anfang November, Plenum voraussichtlich Dezember, danach Rat (qualifizierte Mehrheit). **Noch nichts entschieden.**
+- **Pro:** mehr Spielraum für Plug-in-Hybride und Verbrenner, weniger Strafzahlungsrisiko, das Geld fehlt sonst für den Umbau.
+- **Contra:** Wer Ziele immer wieder ändert, verunsichert Investoren in E-Mobilität und Ladeinfrastruktur; chinesische Hersteller sind bei E-Autos vorn.
+- **Richtig angewendet heißt:** *[Einordnung]* einmal ändern und dann verlässlich bleiben.
+
+**3. „Buy European“ / Vorgaben für europäische Wertschöpfung**
+- Deutschland unterstützt laut Spiegel im Gegenzug für Frankreichs 90-%-Position französische „Buy European“-Pläne *[Bericht, via electrive]*.
+- **Pro:** Werke und Zulieferer in Europa auslasten (Stichwort 500.000 Fahrzeuge Überkapazität).
+- **Contra:** teurere Autos, Risiko von Gegenmaßnahmen, gerade in China, wo deutsche Hersteller noch viel verkaufen.
+
+**4. Zölle auf E-Autos aus China**
+- Die EU erhebt seit Ende 2024 Ausgleichszölle auf in China gebaute E-Autos.
+- **Folge:** Chinesische Hersteller bauen in Europa. BYD in **Szeged (Ungarn)**: Testproduktion seit Januar 2026, Serienstart für das **4. Quartal 2026** angekündigt, ausgelegt auf rund 200.000 Autos pro Jahr, zuerst der Dolphin Surf (Kap. 4.7).
+- **Zweischneidig:** schützt vor Importen, holt aber Konkurrenz ins Land, die dann auch von der E-Auto-Prämie profitieren kann (sofern Modell förderfähig).
+
+**5. Industriestrompreis ausweiten**
+- Der Chemieverband VCI hält die Entlastung für zu gering; die IG Metall fordert einen Preis, der alle Abgaben, Umlagen und Netzentgelte umfasst.
+
+### 7.3 Passt die Medizin zur Krankheit? *[Einordnung, Dennis]*
+
+| Ursache (Kap. 2) | Was dagegen läuft oder diskutiert wird | Lücke |
+|---|---|---|
+| China-Nachfrage weg | — | **Keine deutsche Maßnahme kann das ersetzen.** Nur neue Produkte und Märkte. |
+| Überkapazität in Europa | Zukunftsplan der Firmen; „Buy European“ (diskutiert) | Politik kann Werke kaum füllen, ohne Wettbewerb zu verzerren |
+| Hohe Kosten | Abschreibungen, Körperschaftsteuer ab 2028, Industriestrompreis | wirkt langsam, Strompreis vor allem für Grundstoffe |
+| E-Transformation | E-Auto-Prämie, Kfz-Steuer, Debatte um CO2-Ziele | Prämie kann auch Importe fördern, CO2-Debatte schafft Unsicherheit |
+| US-Zölle | EU-USA-Abkommen (15 %), Werke in den USA (Audi Georgia) | schützt die Marge, nicht unbedingt deutsche Jobs |
+
+**Muss-Satz:** *„Die Maßnahmen setzen bei Kosten und Steuern an. Das größte Loch, die fehlende Nachfrage in China, kann keine deutsche Reform stopfen.“*
+
+**Martin — Unternehmersicht (sein Block):**
+- Was hilft einem Zulieferer im Raum Heilbronn konkret? Abschreibungen ja, wenn er investiert; Strompreis nur, wenn er energieintensiv ist.
+- Was Unternehmer am meisten brauchen: **Planbarkeit**. Lieber eine Regel, die zehn Jahre hält, als drei, die sich jedes Jahr ändern.
+- Frage an Dennis: „Ist es nicht auch Aufgabe der Firmen, sich selbst zu helfen?“ → Dennis: Genau das passiert im Zukunftsplan: Modelle halbieren, Kosten senken, rund 31 Mrd. € sparen.
+
+> 💡 *[Einordnung]* Die Politik kann Rahmen setzen: Kosten, Planbarkeit, Handel. Ob die Autos gekauft werden, entscheidet sich bei den Produkten, und zwar in Peking, Shanghai und Atlanta genauso wie in Stuttgart.
+
+---
+
+## 8. Outro (~4 Min.)
 
 ### Unser Urteil nach einem Jahr (Dennis, Telegramm-Stil)
 
@@ -281,6 +373,7 @@
 3. **Daneben lagen wir:** Erholung 2026 (Folge 04), Porsche als China-/E-Vorbild (Folge 08).
 4. **Die Treiber:** China-Marge weg, 500.000 Fahrzeuge Überkapazität, Kosten, Zölle.
 5. **Die neue Realität:** Abfindung hier, Werk dort, und die Leute gehen selbst.
+6. **Die Gegenmaßnahmen:** Es passiert einiges (Abschreibungen, Steuer ab 2028, E-Auto-Prämie, Strompreis), vieles wirkt aber spät, und gegen das China-Loch hilft keine davon.
 
 ### Was wir in einem Jahr prüfen (Martin)
 
@@ -288,10 +381,12 @@
 - Wie endet der VW-Tarifkonflikt nach dem 31.12.?
 - Wurde in Georgia gebaut?
 - Hat VW die 9 % in Sichtweite?
+- Wurde die Körperschaftsteuer-Senkung vorgezogen, und wie endet der Streit um die CO2-Ziele 2035?
+- Wie viele Autos baut BYD in Ungarn?
 
 ### Community-Frage
 
-> „Arbeitet ihr in der Autoindustrie oder bei einem Zulieferer in der Region? Würdet ihr die Abfindung nehmen? Schreibt's in die Kommentare.“
+> „Arbeitet ihr in der Autoindustrie oder bei einem Zulieferer in der Region? Würdet ihr die Abfindung nehmen? Und welche Maßnahme würde euch wirklich helfen? Schreibt's in die Kommentare.“
 
 ### Schlussakkord
 
@@ -300,7 +395,7 @@
 
 ---
 
-## 8. Live-Notfallkasten
+## 9. Live-Notfallkasten
 
 | Frage / Situation | Antwort |
 |---|---|
@@ -310,27 +405,35 @@
 | „Sind es jetzt 100.000 bei VW?“ | ~50.000 DE (bestehend) + ~50.000 weltweit (neu): **unsere Addition**, VW nennt keine Gesamtzahl. Konkret bestätigt: +12.000 bei der Kernmarke. |
 | „Stimmt das mit 650.000 € bei BMW?“ | Laut Handelsblatt in Einzelfällen, internes Dokument; BMW nennt keine Beträge. |
 | „Darf ein Audi-Chef auf Trumps Bühne?“ | Wir zitieren die Kritik und Döllners Verteidigung, werten nicht parteipolitisch. Fakt: Konzernregeln sehen laut Berichten Zurückhaltung vor Wahlen vor. |
+| „Bringt die Steuersenkung was?“ | Beschlossen ab 2028 (15 → 10 % bis 2032). Hilft bei Gewinnen und Standortwahl, aber nicht kurzfristig und nicht dort, wo Verlust geschrieben wird. Vorziehen ist umstritten, weil die Gegenfinanzierung fehlt. |
+| „Ist das Verbrenner-Aus jetzt weg?“ | Nein, geltendes Recht ist 100 % ab 2035. Vorschläge liegen bei 90 % (Kommission, Merz/Macron) bzw. 95/87,5 % (Parlamentsausschüsse). Entscheidung frühestens nach Plenum (Dez.) und Rat. |
+| „Warum darf BYD hier ein Werk bauen?“ | Ungarn wirbt um Investitionen; EU-Zölle gelten für Importe aus China, nicht für Autos, die in der EU gebaut werden. Wir werten nicht. |
 | Martin wird zu politisch (Trump) | Dennis: „Für Audi ist das eine Standortentscheidung, egal wer regiert. Zurück nach Neckarsulm.“ |
 
 ---
 
-## 9. Status-Check vor der Aufnahme (Pflicht!)
+## 10. Status-Check vor der Aufnahme (Pflicht!)
 
 - [x] ~~Porsche Neunmonatszahlen (27.10.)~~ eingearbeitet
 - [x] ~~Mercedes Q3 (28.10.)~~ eingearbeitet
 - [x] ~~VW Q3 (29.10.)~~ eingearbeitet
-- [x] ~~Audi Q3 (30.10.)~~ eingearbeitet (Zahlen aus Medienberichten; Audi-Mitteilung gegenprüfen, v. a. 28 vs. 29 Mio. € und alte Prognosespanne)
+- [x] ~~Audi Q3 (30.10.)~~ eingearbeitet und gegen Audi-Mitteilungen geprüft (Q3 = rund 28 Mio. €, errechnet; Prognose Juli 5–7 % → 3–5 %)
 - [ ] **BMW Q3-Ergebnis** (Anfang November): Prognose, offizielle Zahl zum Stellenabbau, Ergebnis des Abfindungsprogramms (Entscheidungen bis Mitte November)
 - [ ] **US-Midterms 03.11.:** Folgen für Zölle/Audi-Deal?
 - [ ] **Audi Georgia:** Hat der VW-Aufsichtsrat entschieden? Zollzusagen konkret?
 - [ ] **VW-Tarif:** Gespräche 24.11. (Emden), Warnstreiks?
 - [ ] **Audi Neckarsulm:** Verhandlungen zur Schlechtwetterklausel begonnen?
 - [ ] **US-Zölle:** 15 % oder 25 %?
+- [ ] **CO2-Ziele 2035:** Umweltausschuss (Anfang Nov.) abgestimmt? Plenumstermin bestätigt?
+- [ ] **Körperschaftsteuer vorziehen:** Beschluss im Koalitionsausschuss oder Haushalt 2027?
+- [ ] **BYD Szeged:** offizieller Serienstart gemeldet?
+- [ ] **E-Auto-Prämie:** aktuelle Antragszahl und Einkommensgrenze auf der offiziellen Förderseite prüfen
+- [ ] **Industriestrompreis:** Sind Zulieferer der Autoindustrie (z. B. Gießereien) unter den berechtigten Branchen?
 - [ ] **BW-Beschäftigtenzahl** (196.452 / −5,5 %) an der Originalquelle (Statistisches Landesamt) prüfen
 
 ---
 
-## 10. Korrekturen gegenüber der Themen-Vorlage (für uns, nicht für die Sendung)
+## 11. Korrekturen gegenüber der Themen-Vorlage (für uns, nicht für die Sendung)
 
 | Vorlage | Prüfergebnis (Stand 31.10.) |
 |---|---|
@@ -342,19 +445,25 @@
 | BMW: „8.000 Stellen bis Ende 2027“, „über 650.000 €“ | weiterhin nur **Medienberichte** |
 | „China schrumpft −21,7 %“ | Das ist der **chinesische Pkw-Markt** (CAM), nicht die Hersteller |
 | Porsche: „Zusätzlich wird über weitere Tausende diskutiert“ | **nicht belegt** |
+| (eigene Fassung 31.10.) Audi Q3 „29 Mio. €“, alte Prognose „5–7 bzw. 6–8 %“ | Aus Audi-Mitteilungen errechnet **rund 28 Mio. €**; letzte Prognose vor der Senkung (Juli) **5–7 %** |
+| (eigene Fassung 31.10.) Porsche Netto-Cashflow 2,50 Mrd. € ohne Einordnung | enthält **984 Mio. €** Zufluss aus dem Bugatti-Rimac-Verkauf |
+| (Dennis' Vorbereitung 01.11.) „Investitionen ziehen den Gewinn ins Minus“ | Ins Minus ziehen vor allem Sondereffekte (VW Q3: 7,8 Mrd. €, davon 6,4 Mrd. Porsche-Abschreibung); Porsche, Mercedes, Audi-Konzern im Plus |
+| (Dennis' Vorbereitung 01.11.) „Audi Georgia, um aus Mexiko zu importieren“ | Umgekehrt: US-Werk soll Importe aus Europa und Mexiko ersetzen |
+| (Dennis' Vorbereitung 01.11.) „Senkung der Körperschaftsteuer angestrebt“ | Bereits beschlossen (ab 2028); diskutiert wird das Vorziehen |
 | Audi Georgia „Baubeginn 2027“, „spektakulär bei Trump-Wahlkampfveranstaltung“ | ✔️ bestätigt; Veranstaltung in **Perry**, Werk in **Macon** *(am 26.10. stand hier fälschlich „Macon“ als Veranstaltungsort)*; Aufsichtsrat steht aus |
 
 ---
 
-## 11. Produktionsnotizen
+## 12. Produktionsnotizen
 
-- **Länge:** ~55 Min.; Kap. 3 (Zukunftsplan/Region) ist das Herzstück; Kap. 1 nicht ausufern lassen.
+- **Länge:** ~60 Min.; Kap. 3 (Zukunftsplan/Region) ist das Herzstück; Kap. 1 und 4 straff halten, damit Kap. 5 (Gegenmaßnahmen) nicht hinten runterfällt.
 - **Short-Clips:**
   1. „Porsche verdient wieder, VW schreibt 6,4 Mrd. ab“: Wie geht das? (Dennis, 60 Sek.)
   2. „Hatten wir recht?“: die Faktencheck-Tabelle, inkl. unserer Fehler
   3. „Beschäftigungssicherung bis 2033, Produktionsende 2034“ (Neckarsulm)
   4. Martin: „Man muss sich nicht auf eine Wahlkampfbühne stellen“
-- **Einblendungen:** Quartalszahlen-Tabelle (Kap. 4.1), Faktencheck-Tabelle, Karte Region + vier VW-Werke + Georgia, VW-Stellen-Zeitleiste.
+  5. „Passt die Medizin zur Krankheit?“ Die Gegenmaßnahmen in 60 Sekunden (Dennis)
+- **Einblendungen:** Quartalszahlen-Tabelle (Kap. 4.1), Faktencheck-Tabelle, Tabelle „Ursache → Maßnahme → Lücke“ (Kap. 7.3), Karte Region + vier VW-Werke + Georgia, VW-Stellen-Zeitleiste.
 - **Blog-Post:** Pilot-Post `website/content/posts/ein-jahr-nach-dem-porsche-schock/` mit diesen Zahlen aktualisieren, bevor er veröffentlicht wird.
 - **Thumbnail-Idee:** „1 Jahr später: Hatten wir recht?“ + Porsche-Wappen + roter Pfeil.
 - **Verlinken:** Folgen 04, 08, 21, 23, 30, 37, 39 in Beschreibung und Endcard.
@@ -363,7 +472,7 @@
 
 ## 📺 Videobeschreibung (Entwurf)
 
-> Am 24. Oktober 2025 meldete Porsche fast eine Milliarde Euro Verlust in einem Quartal, und wir haben gesagt: Die Autoindustrie brennt. Ein Jahr später, in der Woche der neuen Quartalszahlen, machen wir den ehrlichen Faktencheck: Porsche verdient wieder, und trotzdem schreibt VW 6,4 Milliarden Euro auf Porsche ab. Audi verdient im Quartal nur noch 29 Millionen, Mercedes senkt die Prognose. Dazu der VW-Zukunftsplan 2030: rund 50.000 weitere Stellen weltweit, 12.000 davon bei der Kernmarke, gekündigte Tarifverträge und vier deutsche Werke ohne Zukunftsgarantie, darunter Audi Neckarsulm. Und warum der Audi-Chef mit seinem Auftritt auf Trumps Wahlkampfbühne für so viel Ärger sorgt.
+> Am 24. Oktober 2025 meldete Porsche fast eine Milliarde Euro Verlust in einem Quartal, und wir haben gesagt: Die Autoindustrie brennt. Ein Jahr später, in der Woche der neuen Quartalszahlen, machen wir den ehrlichen Faktencheck: Porsche verdient wieder, und trotzdem schreibt VW 6,4 Milliarden Euro auf Porsche ab. Audi verdient im Quartal operativ nur noch knapp 30 Millionen, Mercedes senkt die Prognose. Dazu der VW-Zukunftsplan 2030: rund 50.000 weitere Stellen weltweit, 12.000 davon bei der Kernmarke, gekündigte Tarifverträge und vier deutsche Werke ohne Zukunftsgarantie, darunter Audi Neckarsulm. Und warum der Audi-Chef mit seinem Auftritt auf Trumps Wahlkampfbühne für so viel Ärger sorgt. Zum Schluss schauen wir auf die Gegenmaßnahmen: Was läuft schon, was wird gerade gestritten, von der Körperschaftsteuer bis zum Verbrenner-Aus, und was könnte wirklich helfen?
 >
 > Keine Anlage-, Rechts- oder Abfindungsberatung.
 
@@ -417,6 +526,27 @@
 - CAM-Analyse Jan–Sep 2026 via tuningblog.eu: https://www.tuningblog.eu/kredit-finanzierung-leasing-co/autohersteller-absatztrends-2026-809170
 - Handelsblatt, „Tausende wollen BMW verlassen“: https://www.handelsblatt.com/unternehmen/industrie/autobauer-tausende-wollen-bmw-verlassen-abfindungsprogramm-geschlossen/100263648.html
 - finanzen.net, Trump kündigt 25 % auf EU-Autos an (02.05.2026): https://www.finanzen.net/nachricht/aktien/zoelle-auf-us-importe-aktien-von-vw-mercedes-bmw-co-in-alarmstimmung-trumps-neuer-25-zollhammer-trifft-so-reagiert-europa-00-15652764
+
+**Gegenmaßnahmen und Politik**
+- Bundesfinanzministerium, Investitionssofortprogramm (Monatsbericht August 2025): https://www.bundesfinanzministerium.de/Monatsberichte/Ausgabe/2025/08/Inhalte/Kapitel-2-Fokus/investitionssofortprogramm-deutschland.html
+- Bundesgesetzblatt 2025 I Nr. 161 (18.07.2025): https://www.recht.bund.de/bgbl/1/2025/161/regelungstext.pdf
+- Tagesspiegel, Sinken die Unternehmenssteuern doch schon 2026?: https://www.tagesspiegel.de/politik/koalition-und-okonomen-gespalten-sinken-die-unternehmenssteuern-doch-schon-2026-15036843.html
+- news.de/dpa, Klingbeil zurückhaltend zu Vorziehen von Steuerreform: https://www.news.de/amp/politik/859274602/klingbeil-zurueckhaltend-zu-vorziehen-von-steuerreform-lars-klingbeil-news-der-dpa-aktuell-zu-bundesregierung-finanzen-steuern-und-wirtschaft/1/
+- Statista/IW Köln, Auswirkungen einer Senkung der Körperschaftsteuer: https://de.statista.com/infografik/34549/auswirkungen-einer-senkung-der-koerperschaftssteuer-auf-konsum-und-investitionen-in-deutschland
+- Verbraucherzentrale NRW, E-Auto-Prämie 2026: https://www.verbraucherzentrale.nrw/node/116489
+- Bundesumweltministerium, FAQ E-Auto-Förderung: https://www.bundesumweltministerium.de/fileadmin/Daten_BMU/Download_PDF/Verkehr/faq_e-autofoerderung_bf.pdf
+- Börsen-Zeitung, EU-Kommission genehmigt Industriestrompreis: https://www.boersen-zeitung.de/konjunktur-politik/eu-kommission-genehmigt-deutschen-industriestrompreis-4
+- Rödl & Partner, Industriestrompreis kommt (27.04.2026): https://www.roedl.com/insights/strompreisentlastungen-industriestrompreis-kommt/
+- EU-Kommission, Automobilpaket (16.12.2025): https://commission.europa.eu/news-and-media/news/taking-action-clean-and-competitive-automotive-sector-2025-12-16_de
+- electrive, EU-Ausschüsse votieren für Lockerung der CO2-Regeln (23.10.2026): https://www.electrive.net/2026/10/23/auto-paket-eu-ausschuesse-votieren-fuer-lockerung-der-co2-regeln/
+- Bundesumweltministerium, FAQ CO2-Flottenziele: https://www.bundesumweltministerium.de/themen/verkehr/haeufig-gestellte-fragen-zu-co2-flottenzielen
+
+**China in Europa / Audi Mexiko**
+- Hungary Today, BYD Szeged Serienstart Ende 2026: https://hungarytoday.hu/byd-to-begin-mass-production-at-szeged-plant-in-late-2026/
+- elektroauto-news, BYD-Werk Ungarn startet wohl erst Ende des Jahres: https://www.elektroauto-news.net/news/byd-ungarn-produktion-ende-2026-tuerkei-pause
+- IAA Mobility, BYD Testproduktion Ungarn: https://www.iaa-mobility.com/en/newsroom/news/future-technology/byd-launches-trial-production-hungary-milestone-european-ev-manufacturing
+- MarkLines, Audi Q5 exports halted (Mai 2025): https://www.marklines.com/en/news/325872
+- Fortune, Audi Q5 and tariffs (April 2025): https://fortune.com/2025/04/10/audi-q5-suv-expected-to-be-unsellable-after-trump-tariffs/
 
 **Eigene Folgen**
 - Folge 04, 08, 21, 23, 30 (Skripte in `episoden/`), Folge 37 und 39 (nur YouTube-Titel)
